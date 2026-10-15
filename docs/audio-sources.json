@@ -1,0 +1,2886 @@
+{
+  "source": {
+    "name": "Tofugu / WaniKani",
+    "repository": "https://github.com/tofugu/japanese-vocabulary-pronunciation-audio",
+    "commit": "9725e0e7d628ab616e8b14e126d3daa33eba8d36",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "attribution": [
+      "Tofugu",
+      "WaniKani"
+    ],
+    "voices": "Japanese native speakers; mixed Tokyo male and Kansai female recordings. Individual speaker metadata unavailable.",
+    "additionalSources": [
+      {
+        "repository": "https://github.com/kanjialive/kanji-data-media",
+        "license": "CC BY 4.0",
+        "attribution": [
+          "Kanji alive"
+        ],
+        "licenseUrl": "https://creativecommons.org/licenses/by/4.0/"
+      }
+    ]
+  },
+  "modifications": "Selected and bundled without changing recording bytes.",
+  "clips": [
+    {
+      "id": "f-v01",
+      "word": "予定",
+      "reading": "よてい",
+      "sourcePage": "https://github.com/tofugu/japanese-vocabulary-pronunciation-audio/blob/9725e0e7d628ab616e8b14e126d3daa33eba8d36/lib/mp3/%E4%BA%88%E5%AE%9A%E3%80%90%E3%82%88%E3%81%A6%E3%81%84%E3%80%91.mp3",
+      "license": "CC BY-SA 4.0",
+      "attribution": [
+        "Tofugu",
+        "WaniKani"
+      ],
+      "bytes": 13081,
+      "sha256": "27095e1fbe2f0832b4668169d71faa89d01e95a3ef5a2df284a3916cffbb6826"
+    },
+    {
+      "id": "f-v02",
+      "word": "約束",
+      "reading": "やくそく",
+      "sourcePage": "https://github.com/tofugu/japanese-vocabulary-pronunciation-audio/blob/9725e0e7d628ab616e8b14e126d3daa33eba8d36/lib/mp3/%E7%B4%84%E6%9D%9F%E3%80%90%E3%82%84%E3%81%8F%E3%81%9D%E3%81%8F%E3%80%91.mp3",
+      "license": "CC BY-SA 4.0",
+      "attribution": [
+        "Tofugu",
+        "WaniKani"
+      ],
+      "bytes": 15104,
+      "sha256": "c2a57aa0c880564ec4ece9a5cd36973e45ef64e9b102ef8c0030e18e5399fc55"
+    },
+    {
+      "id": "f-v03",
+      "word": "間に合う",
+      "reading": "まにあう",
+      "sourcePage": "https://github.com/tofugu/japanese-vocabulary-pronunciation-audio/blob/9725e0e7d628ab616e8b14e126d3daa33eba8d36/lib/mp3/%E9%96%93%E3%81%AB%E5%90%88%E3%81%86%E3%80%90%E3%81%BE%E3%81%AB%E3%81%82%E3%81%86%E3%80%91.mp3",
+      "license": "CC BY-SA 4.0",
+      "attribution": [
+        "Tofugu",
+        "WaniKani"
+      ],
+      "bytes": 16896,
+      "sha256": "0867de476aee2d1bb47aaee9f0662b24fd3ae4e3a18de9aa4890dd6e3dadb292"
+    },
+    {
+      "id": "f-v04",
+      "word": "準備",
+      "reading": "じゅんび",
+      "sourcePage": "https://github.com/tofugu/japanese-vocabulary-pronunciation-audio/blob/9725e0e7d628ab616e8b14e126d3daa33eba8d36/lib/mp3/%E6%BA%96%E5%82%99%E3%80%90%E3%81%98%E3%82%85%E3%82%93%E3%81%B3%E3%80%91.mp3",
+      "license": "CC BY-SA 4.0",
+      "attribution": [
+        "Tofugu",
+        "WaniKani"
+      ],
+      "bytes": 21304,
+      "sha256": "fb09ac818590e5039af612093901fb2a96575519178bcfa815394aa540f2c39c"
+    },
+    {
+      "id": "f-v05",
+      "word": "続ける",
+      "reading": "つづける",
+      "sourcePage": "https://github.com/tofugu/japanese-vocabulary-pronunciation-audio/blob/9725e0e7d628ab616e8b14e126d3daa33eba8d36/lib/mp3/%E7%B6%9A%E3%81%91%E3%82%8B%E3%80%90%E3%81%A4%E3%81%A5%E3%81%91%E3%82%8B%E3%80%91.mp3",
+      "license": "CC BY-SA 4.0",
+      "attribution": [
+        "Tofugu",
+        "WaniKani"
+      ],
+      "bytes": 30499,
+      "sha256": "d696871f982691e33698d04ec0a549404a52e6fcbb2107a38bdffbbb176de3fe"
+    },
+    {
+      "id": "f-v06",
+      "word": "比べる",
+      "reading": "くらべる",
+      "sourcePage": "https://github.com/tofugu/japanese-vocabulary-pronunciation-audio/blob/9725e0e7d628ab616e8b14e126d3daa33eba8d36/lib/mp3/%E6%AF%94%E3%81%B9%E3%82%8B%E3%80%90%E3%81%8F%E3%82%89%E3%81%B9%E3%82%8B%E3%80%91.mp3",
+      "license": "CC BY-SA 4.0",
+      "attribution": [
+        "Tofugu",
+        "WaniKani"
+      ],
+      "bytes": 33488,
+      "sha256": "4377a45e4576da7749cddfcd2424a546a8b1f856fc9d62c1ee66f6b13b1438dd"
+    },
+    {
+      "id": "f-v07",
+      "word": "確かめる",
+      "reading": "たしかめる",
+      "sourcePage": "https://github.com/tofugu/japanese-vocabulary-pronunciation-audio/blob/9725e0e7d628ab616e8b14e126d3daa33eba8d36/lib/mp3/%E7%A2%BA%E3%81%8B%E3%82%81%E3%82%8B%E3%80%90%E3%81%9F%E3%81%97%E3%81%8B%E3%82%81%E3%82%8B%E3%80%91.mp3",
+      "license": "CC BY-SA 4.0",
+      "attribution": [
+        "Tofugu",
+        "WaniKani"
+      ],
+      "bytes": 31335,
+      "sha256": "8503ace22cabbb7178c4c51cad65d893fd91c0fad596a193a80e5d747f0cae7a"
+    },
+    {
+      "id": "f-v08",
+      "word": "必要",
+      "reading": "ひつよう",
+      "sourcePage": "https://github.com/tofugu/japanese-vocabulary-pronunciation-audio/blob/9725e0e7d628ab616e8b14e126d3daa33eba8d36/lib/mp3/%E5%BF%85%E8%A6%81%E3%80%90%E3%81%B2%E3%81%A4%E3%82%88%E3%81%86%E3%80%91.mp3",
+      "license": "CC BY-SA 4.0",
+      "attribution": [
+        "Tofugu",
+        "WaniKani"
+      ],
+      "bytes": 17261,
+      "sha256": "c0e16350fd082faf171de2149cd21b0555e7017184dabed19ee4de2a33fc77f9"
+    },
+    {
+      "id": "f-v09",
+      "word": "慣れる",
+      "reading": "なれる",
+      "sourcePage": "https://github.com/tofugu/japanese-vocabulary-pronunciation-audio/blob/9725e0e7d628ab616e8b14e126d3daa33eba8d36/lib/mp3/%E6%85%A3%E3%82%8C%E3%82%8B%E3%80%90%E3%81%AA%E3%82%8C%E3%82%8B%E3%80%91.mp3",
+      "license": "CC BY-SA 4.0",
+      "attribution": [
+        "Tofugu",
+        "WaniKani"
+      ],
+      "bytes": 22140,
+      "sha256": "e58cab64100ca4d50c130fee78169fe1516f27f2bc1f8daefd54d16465a8c137"
+    },
+    {
+      "id": "f-v10",
+      "word": "途中",
+      "reading": "とちゅう",
+      "sourcePage": "https://github.com/tofugu/japanese-vocabulary-pronunciation-audio/blob/9725e0e7d628ab616e8b14e126d3daa33eba8d36/lib/mp3/%E9%80%94%E4%B8%AD%E3%80%90%E3%81%A8%E3%81%A1%E3%82%85%E3%81%86%E3%80%91.mp3",
+      "license": "CC BY-SA 4.0",
+      "attribution": [
+        "Tofugu",
+        "WaniKani"
+      ],
+      "bytes": 27991,
+      "sha256": "9f8eca2f5f60d8445d5eb91e62f6a831e1d3361a4d64e94ee27b8ed250af4e9e"
+    },
+    {
+      "id": "f-v11",
+      "word": "原因",
+      "reading": "げんいん",
+      "sourcePage": "https://github.com/tofugu/japanese-vocabulary-pronunciation-audio/blob/9725e0e7d628ab616e8b14e126d3daa33eba8d36/lib/mp3/%E5%8E%9F%E5%9B%A0%E3%80%90%E3%81%92%E3%82%93%E3%81%84%E3%82%93%E3%80%91.mp3",
+      "license": "CC BY-SA 4.0",
+      "attribution": [
+        "Tofugu",
+        "WaniKani"
+      ],
+      "bytes": 26319,
+      "sha256": "35766a1910ebef6d9f671239516eff9b9efa6d69ad618a8e2cbeec63daf33f48"
+    },
+    {
+      "id": "f-v12",
+      "word": "復習",
+      "reading": "ふくしゅう",
+      "sourcePage": "https://github.com/tofugu/japanese-vocabulary-pronunciation-audio/blob/9725e0e7d628ab616e8b14e126d3daa33eba8d36/lib/mp3/%E5%BE%A9%E7%BF%92%E3%80%90%E3%81%B5%E3%81%8F%E3%81%97%E3%82%85%E3%81%86%E3%80%91.mp3",
+      "license": "CC BY-SA 4.0",
+      "attribution": [
+        "Tofugu",
+        "WaniKani"
+      ],
+      "bytes": 25483,
+      "sha256": "c2c8bdb8c023fc4f14cb6a03f043909dbe3fff90be2a1266b53070beaa4cd82f"
+    },
+    {
+      "id": "f-v13",
+      "word": "届く",
+      "reading": "とどく",
+      "sourcePage": "https://github.com/tofugu/japanese-vocabulary-pronunciation-audio/blob/9725e0e7d628ab616e8b14e126d3daa33eba8d36/lib/mp3/%E5%B1%8A%E3%81%8F%E3%80%90%E3%81%A8%E3%81%A9%E3%81%8F%E3%80%91.mp3",
+      "license": "CC BY-SA 4.0",
+      "attribution": [
+        "Tofugu",
+        "WaniKani"
+      ],
+      "bytes": 22976,
+      "sha256": "957e1258a785cb79adfd6d61e0958f94a9fc00250eba77877792107b93d73317"
+    },
+    {
+      "id": "f-v14",
+      "word": "送る",
+      "reading": "おくる",
+      "sourcePage": "https://github.com/tofugu/japanese-vocabulary-pronunciation-audio/blob/9725e0e7d628ab616e8b14e126d3daa33eba8d36/lib/mp3/%E9%80%81%E3%82%8B%E3%80%90%E3%81%8A%E3%81%8F%E3%82%8B%E3%80%91.mp3",
+      "license": "CC BY-SA 4.0",
+      "attribution": [
+        "Tofugu",
+        "WaniKani"
+      ],
+      "bytes": 11827,
+      "sha256": "da139ca69d48b3115a0f1a35e2110351c189134fac921a9ed508eb6e8e32dc44"
+    },
+    {
+      "id": "f-v15",
+      "word": "借りる",
+      "reading": "かりる",
+      "sourcePage": "https://github.com/tofugu/japanese-vocabulary-pronunciation-audio/blob/9725e0e7d628ab616e8b14e126d3daa33eba8d36/lib/mp3/%E5%80%9F%E3%82%8A%E3%82%8B%E3%80%90%E3%81%8B%E3%82%8A%E3%82%8B%E3%80%91.mp3",
+      "license": "CC BY-SA 4.0",
+      "attribution": [
+        "Tofugu",
+        "WaniKani"
+      ],
+      "bytes": 28473,
+      "sha256": "ed7fe206eccd628f79e899d37e1fcff8477cad3f36e62d2113204bbb2c5b701e"
+    },
+    {
+      "id": "f-v16",
+      "word": "貸す",
+      "reading": "かす",
+      "sourcePage": "https://github.com/tofugu/japanese-vocabulary-pronunciation-audio/blob/9725e0e7d628ab616e8b14e126d3daa33eba8d36/lib/mp3/%E8%B2%B8%E3%81%99%E3%80%90%E3%81%8B%E3%81%99%E3%80%91.mp3",
+      "license": "CC BY-SA 4.0",
+      "attribution": [
+        "Tofugu",
+        "WaniKani"
+      ],
+      "bytes": 21304,
+      "sha256": "a7a7deb08624d837d4fccc43bf37f6c9ae696540e84e70fe1e580d08ea0690da"
+    },
+    {
+      "id": "f-v17",
+      "word": "返す",
+      "reading": "かえす",
+      "sourcePage": "https://github.com/tofugu/japanese-vocabulary-pronunciation-audio/blob/9725e0e7d628ab616e8b14e126d3daa33eba8d36/lib/mp3/%E8%BF%94%E3%81%99%E3%80%90%E3%81%8B%E3%81%88%E3%81%99%E3%80%91.mp3",
+      "license": "CC BY-SA 4.0",
+      "attribution": [
+        "Tofugu",
+        "WaniKani"
+      ],
+      "bytes": 14806,
+      "sha256": "d6db3e789a9c71add0d099ad0ac4e80da0d78567a98e928531becd2b34dad3c0"
+    },
+    {
+      "id": "f-v18",
+      "word": "忘れる",
+      "reading": "わすれる",
+      "sourcePage": "https://github.com/tofugu/japanese-vocabulary-pronunciation-audio/blob/9725e0e7d628ab616e8b14e126d3daa33eba8d36/lib/mp3/%E5%BF%98%E3%82%8C%E3%82%8B%E3%80%90%E3%82%8F%E3%81%99%E3%82%8C%E3%82%8B%E3%80%91.mp3",
+      "license": "CC BY-SA 4.0",
+      "attribution": [
+        "Tofugu",
+        "WaniKani"
+      ],
+      "bytes": 32652,
+      "sha256": "cdfa92e8654cab7c271b12128b0494dd8110c1e061f154ef25fa827fcfd8864b"
+    },
+    {
+      "id": "f-v19",
+      "word": "覚える",
+      "reading": "おぼえる",
+      "sourcePage": "https://github.com/tofugu/japanese-vocabulary-pronunciation-audio/blob/9725e0e7d628ab616e8b14e126d3daa33eba8d36/lib/mp3/%E8%A6%9A%E3%81%88%E3%82%8B%E3%80%90%E3%81%8A%E3%81%BC%E3%81%88%E3%82%8B%E3%80%91.mp3",
+      "license": "CC BY-SA 4.0",
+      "attribution": [
+        "Tofugu",
+        "WaniKani"
+      ],
+      "bytes": 30282,
+      "sha256": "15b5299791156acefca3bff586a5362acef1fc95c3f76e53a7cdf637f1d25b7d"
+    },
+    {
+      "id": "f-v20",
+      "word": "決める",
+      "reading": "きめる",
+      "sourcePage": "https://github.com/tofugu/japanese-vocabulary-pronunciation-audio/blob/9725e0e7d628ab616e8b14e126d3daa33eba8d36/lib/mp3/%E6%B1%BA%E3%82%81%E3%82%8B%E3%80%90%E3%81%8D%E3%82%81%E3%82%8B%E3%80%91.mp3",
+      "license": "CC BY-SA 4.0",
+      "attribution": [
+        "Tofugu",
+        "WaniKani"
+      ],
+      "bytes": 12298,
+      "sha256": "5dc1e2d2d4ce71f3f7cf07282f29f6a8f106e71e91c2d22bd780c31948343335"
+    },
+    {
+      "id": "f-v21",
+      "word": "選ぶ",
+      "reading": "えらぶ",
+      "sourcePage": "https://github.com/tofugu/japanese-vocabulary-pronunciation-audio/blob/9725e0e7d628ab616e8b14e126d3daa33eba8d36/lib/mp3/%E9%81%B8%E3%81%B6%E3%80%90%E3%81%88%E3%82%89%E3%81%B6%E3%80%91.mp3",
+      "license": "CC BY-SA 4.0",
+      "attribution": [
+        "Tofugu",
+        "WaniKani"
+      ],
+      "bytes": 13432,
+      "sha256": "1455b1490ff168c4a54d9c62aac841876cfced3d301dd5d7e759644595b9c9c1"
+    },
+    {
+      "id": "f-v22",
+      "word": "始める",
+      "reading": "はじめる",
+      "sourcePage": "https://github.com/tofugu/japanese-vocabulary-pronunciation-audio/blob/9725e0e7d628ab616e8b14e126d3daa33eba8d36/lib/mp3/%E5%A7%8B%E3%82%81%E3%82%8B%E3%80%90%E3%81%AF%E3%81%98%E3%82%81%E3%82%8B%E3%80%91.mp3",
+      "license": "CC BY-SA 4.0",
+      "attribution": [
+        "Tofugu",
+        "WaniKani"
+      ],
+      "bytes": 13917,
+      "sha256": "182a804fdaea00cbc46c182158ba6249dc13f48fba1bd0f9a72ccecb4d1db492"
+    },
+    {
+      "id": "f-v23",
+      "word": "終わる",
+      "reading": "おわる",
+      "sourcePage": "https://github.com/tofugu/japanese-vocabulary-pronunciation-audio/blob/9725e0e7d628ab616e8b14e126d3daa33eba8d36/lib/mp3/%E7%B5%82%E3%82%8F%E3%82%8B%E3%80%90%E3%81%8A%E3%82%8F%E3%82%8B%E3%80%91.mp3",
+      "license": "CC BY-SA 4.0",
+      "attribution": [
+        "Tofugu",
+        "WaniKani"
+      ],
+      "bytes": 13499,
+      "sha256": "87b16ecd26cd234f7bd3bae36c7f55027740042662f6630374a4fecac713793f"
+    },
+    {
+      "id": "f-v24",
+      "word": "使う",
+      "reading": "つかう",
+      "sourcePage": "https://github.com/tofugu/japanese-vocabulary-pronunciation-audio/blob/9725e0e7d628ab616e8b14e126d3daa33eba8d36/lib/mp3/%E4%BD%BF%E3%81%86%E3%80%90%E3%81%A4%E3%81%8B%E3%81%86%E3%80%91.mp3",
+      "license": "CC BY-SA 4.0",
+      "attribution": [
+        "Tofugu",
+        "WaniKani"
+      ],
+      "bytes": 11409,
+      "sha256": "9123eeb50390db46339bb2a02515924940c9c877010dd3de0d893db1e9d86794"
+    },
+    {
+      "id": "f-v25",
+      "word": "作る",
+      "reading": "つくる",
+      "sourcePage": "https://github.com/tofugu/japanese-vocabulary-pronunciation-audio/blob/9725e0e7d628ab616e8b14e126d3daa33eba8d36/lib/mp3/%E4%BD%9C%E3%82%8B%E3%80%90%E3%81%A4%E3%81%8F%E3%82%8B%E3%80%91.mp3",
+      "license": "CC BY-SA 4.0",
+      "attribution": [
+        "Tofugu",
+        "WaniKani"
+      ],
+      "bytes": 11846,
+      "sha256": "80bfc318776e33a80407ea9fb683a727c7f19a19dc6f4d9f928b091323909bba"
+    },
+    {
+      "id": "f-v26",
+      "word": "持つ",
+      "reading": "もつ",
+      "sourcePage": "https://github.com/tofugu/japanese-vocabulary-pronunciation-audio/blob/9725e0e7d628ab616e8b14e126d3daa33eba8d36/lib/mp3/%E6%8C%81%E3%81%A4%E3%80%90%E3%82%82%E3%81%A4%E3%80%91.mp3",
+      "license": "CC BY-SA 4.0",
+      "attribution": [
+        "Tofugu",
+        "WaniKani"
+      ],
+      "bytes": 14753,
+      "sha256": "860bfdd1d8410fe9afbb45a1e299a892c2e49a2e342b8f52fae9f64f466d5dc4"
+    },
+    {
+      "id": "f-v27",
+      "word": "待つ",
+      "reading": "まつ",
+      "sourcePage": "https://github.com/tofugu/japanese-vocabulary-pronunciation-audio/blob/9725e0e7d628ab616e8b14e126d3daa33eba8d36/lib/mp3/%E5%BE%85%E3%81%A4%E3%80%90%E3%81%BE%E3%81%A4%E3%80%91.mp3",
+      "license": "CC BY-SA 4.0",
+      "attribution": [
+        "Tofugu",
+        "WaniKani"
+      ],
+      "bytes": 13917,
+      "sha256": "984269b02bd0bd17dc388df1c5dfbfbc0a2ec25cf4fbafd043d7e0e5f1d873b4"
+    },
+    {
+      "id": "f-v28",
+      "word": "乗る",
+      "reading": "のる",
+      "sourcePage": "https://github.com/tofugu/japanese-vocabulary-pronunciation-audio/blob/9725e0e7d628ab616e8b14e126d3daa33eba8d36/lib/mp3/%E4%B9%97%E3%82%8B%E3%80%90%E3%81%AE%E3%82%8B%E3%80%91.mp3",
+      "license": "CC BY-SA 4.0",
+      "attribution": [
+        "Tofugu",
+        "WaniKani"
+      ],
+      "bytes": 20468,
+      "sha256": "b17f65c002c298c74cc96331d33cdbd30d93f513ce702f4185a087d49e2267ba"
+    },
+    {
+      "id": "f-v29",
+      "word": "降りる",
+      "reading": "おりる",
+      "sourcePage": "https://github.com/tofugu/japanese-vocabulary-pronunciation-audio/blob/9725e0e7d628ab616e8b14e126d3daa33eba8d36/lib/mp3/%E9%99%8D%E3%82%8A%E3%82%8B%E3%80%90%E3%81%8A%E3%82%8A%E3%82%8B%E3%80%91.mp3",
+      "license": "CC BY-SA 4.0",
+      "attribution": [
+        "Tofugu",
+        "WaniKani"
+      ],
+      "bytes": 17124,
+      "sha256": "d15340434994d511134a1742319c8c3e8e5ac689c3e9bfe8c68fedcfb027c4b5"
+    },
+    {
+      "id": "f-v30",
+      "word": "着く",
+      "reading": "つく",
+      "sourcePage": "https://github.com/tofugu/japanese-vocabulary-pronunciation-audio/blob/9725e0e7d628ab616e8b14e126d3daa33eba8d36/lib/mp3/%E7%9D%80%E3%81%8F%E3%80%90%E3%81%A4%E3%81%8F%E3%80%91.mp3",
+      "license": "CC BY-SA 4.0",
+      "attribution": [
+        "Tofugu",
+        "WaniKani"
+      ],
+      "bytes": 11760,
+      "sha256": "faae7a43d9f01f293498644585f537e8b720801c63dfe4a52472e58f1f867bd3"
+    },
+    {
+      "id": "f-v31",
+      "word": "遅れる",
+      "reading": "おくれる",
+      "sourcePage": "https://github.com/tofugu/japanese-vocabulary-pronunciation-audio/blob/9725e0e7d628ab616e8b14e126d3daa33eba8d36/lib/mp3/%E9%81%85%E3%82%8C%E3%82%8B%E3%80%90%E3%81%8A%E3%81%8F%E3%82%8C%E3%82%8B%E3%80%91.mp3",
+      "license": "CC BY-SA 4.0",
+      "attribution": [
+        "Tofugu",
+        "WaniKani"
+      ],
+      "bytes": 23811,
+      "sha256": "4ff35d1b36349f658008e632aa902e8bee4ebb26718fdfaa61b2d39b5ad4ef17"
+    },
+    {
+      "id": "f-v32",
+      "word": "急ぐ",
+      "reading": "いそぐ",
+      "sourcePage": "https://github.com/tofugu/japanese-vocabulary-pronunciation-audio/blob/9725e0e7d628ab616e8b14e126d3daa33eba8d36/lib/mp3/%E6%80%A5%E3%81%90%E3%80%90%E3%81%84%E3%81%9D%E3%81%90%E3%80%91.mp3",
+      "license": "CC BY-SA 4.0",
+      "attribution": [
+        "Tofugu",
+        "WaniKani"
+      ],
+      "bytes": 27155,
+      "sha256": "57c8f554cf7ca304e0e80d79d316b4a8b755745c1d3c252eb414a7e933cbb407"
+    },
+    {
+      "id": "f-v33",
+      "word": "入る",
+      "reading": "はいる",
+      "sourcePage": "https://github.com/tofugu/japanese-vocabulary-pronunciation-audio/blob/9725e0e7d628ab616e8b14e126d3daa33eba8d36/lib/mp3/%E5%85%A5%E3%82%8B%E3%80%90%E3%81%AF%E3%81%84%E3%82%8B%E3%80%91.mp3",
+      "license": "CC BY-SA 4.0",
+      "attribution": [
+        "Tofugu",
+        "WaniKani"
+      ],
+      "bytes": 10593,
+      "sha256": "5433d80e7edf261f8a84443e6926d985f40cd638789fde5f6db428fb6e1e1d76"
+    },
+    {
+      "id": "f-v34",
+      "word": "出る",
+      "reading": "でる",
+      "sourcePage": "https://github.com/tofugu/japanese-vocabulary-pronunciation-audio/blob/9725e0e7d628ab616e8b14e126d3daa33eba8d36/lib/mp3/%E5%87%BA%E3%82%8B%E3%80%90%E3%81%A7%E3%82%8B%E3%80%91.mp3",
+      "license": "CC BY-SA 4.0",
+      "attribution": [
+        "Tofugu",
+        "WaniKani"
+      ],
+      "bytes": 10175,
+      "sha256": "19f7317030f71c895c09b0d4714a4dfafe0c0fe45769aee416d6b26d71eb4bf3"
+    },
+    {
+      "id": "f-v35",
+      "word": "開ける",
+      "reading": "あける",
+      "sourcePage": "https://github.com/tofugu/japanese-vocabulary-pronunciation-audio/blob/9725e0e7d628ab616e8b14e126d3daa33eba8d36/lib/mp3/%E9%96%8B%E3%81%91%E3%82%8B%E3%80%90%E3%81%82%E3%81%91%E3%82%8B%E3%80%91.mp3",
+      "license": "CC BY-SA 4.0",
+      "attribution": [
+        "Tofugu",
+        "WaniKani"
+      ],
+      "bytes": 13917,
+      "sha256": "04144d790bdf5e67c9724c41981ae0335171d696640e69e2fbc2122caa7e4b84"
+    },
+    {
+      "id": "f-v36",
+      "word": "閉める",
+      "reading": "しめる",
+      "sourcePage": "https://github.com/tofugu/japanese-vocabulary-pronunciation-audio/blob/9725e0e7d628ab616e8b14e126d3daa33eba8d36/lib/mp3/%E9%96%89%E3%82%81%E3%82%8B%E3%80%90%E3%81%97%E3%82%81%E3%82%8B%E3%80%91.mp3",
+      "license": "CC BY-SA 4.0",
+      "attribution": [
+        "Tofugu",
+        "WaniKani"
+      ],
+      "bytes": 25483,
+      "sha256": "9667185fd53bddfd6c98f3db344f4d7e6a96c6f1aa04f41b7cc975a1807a9c1b"
+    },
+    {
+      "id": "f-v37",
+      "word": "消す",
+      "reading": "けす",
+      "sourcePage": "https://github.com/tofugu/japanese-vocabulary-pronunciation-audio/blob/9725e0e7d628ab616e8b14e126d3daa33eba8d36/lib/mp3/%E6%B6%88%E3%81%99%E3%80%90%E3%81%91%E3%81%99%E3%80%91.mp3",
+      "license": "CC BY-SA 4.0",
+      "attribution": [
+        "Tofugu",
+        "WaniKani"
+      ],
+      "bytes": 10925,
+      "sha256": "efdf837cf6ee25e8791cc490f9e6d519f4a82e3cf500232221715f6d1c94e499"
+    },
+    {
+      "id": "f-v38",
+      "word": "点ける",
+      "reading": "つける",
+      "sourcePage": "https://github.com/tofugu/japanese-vocabulary-pronunciation-audio/blob/9725e0e7d628ab616e8b14e126d3daa33eba8d36/lib/mp3/%E7%82%B9%E3%81%91%E3%82%8B%E3%80%90%E3%81%A4%E3%81%91%E3%82%8B%E3%80%91.mp3",
+      "license": "CC BY-SA 4.0",
+      "attribution": [
+        "Tofugu",
+        "WaniKani"
+      ],
+      "bytes": 30491,
+      "sha256": "6fa3630655cebdbde9ffcc7f3ca84d99069cc287cfd5c6b0d5727e0c8da19875"
+    },
+    {
+      "id": "f-v39",
+      "word": "探す",
+      "reading": "さがす",
+      "sourcePage": "https://github.com/tofugu/japanese-vocabulary-pronunciation-audio/blob/9725e0e7d628ab616e8b14e126d3daa33eba8d36/lib/mp3/%E6%8E%A2%E3%81%99%E3%80%90%E3%81%95%E3%81%8C%E3%81%99%E3%80%91.mp3",
+      "license": "CC BY-SA 4.0",
+      "attribution": [
+        "Tofugu",
+        "WaniKani"
+      ],
+      "bytes": 27155,
+      "sha256": "62ad2968d1576c06681d2dc00384d5d48567fcd6220091f455735428f3964ead"
+    },
+    {
+      "id": "f-v41",
+      "word": "聞く",
+      "reading": "きく",
+      "sourcePage": "https://github.com/tofugu/japanese-vocabulary-pronunciation-audio/blob/9725e0e7d628ab616e8b14e126d3daa33eba8d36/lib/mp3/%E8%81%9E%E3%81%8F%E3%80%90%E3%81%8D%E3%81%8F%E3%80%91.mp3",
+      "license": "CC BY-SA 4.0",
+      "attribution": [
+        "Tofugu",
+        "WaniKani"
+      ],
+      "bytes": 13081,
+      "sha256": "f1a0bfb5ba37f4034c01da3280755842a9f677d778cad081f642971926f45c2c"
+    },
+    {
+      "id": "f-v42",
+      "word": "話す",
+      "reading": "はなす",
+      "sourcePage": "https://github.com/tofugu/japanese-vocabulary-pronunciation-audio/blob/9725e0e7d628ab616e8b14e126d3daa33eba8d36/lib/mp3/%E8%A9%B1%E3%81%99%E3%80%90%E3%81%AF%E3%81%AA%E3%81%99%E3%80%91.mp3",
+      "license": "CC BY-SA 4.0",
+      "attribution": [
+        "Tofugu",
+        "WaniKani"
+      ],
+      "bytes": 14806,
+      "sha256": "be4049d2ffd238cf5c1fe11ede9fe3882b641c0925c435c6f7a5752428198eb4"
+    },
+    {
+      "id": "f-v43",
+      "word": "読む",
+      "reading": "よむ",
+      "sourcePage": "https://github.com/tofugu/japanese-vocabulary-pronunciation-audio/blob/9725e0e7d628ab616e8b14e126d3daa33eba8d36/lib/mp3/%E8%AA%AD%E3%82%80%E3%80%90%E3%82%88%E3%82%80%E3%80%91.mp3",
+      "license": "CC BY-SA 4.0",
+      "attribution": [
+        "Tofugu",
+        "WaniKani"
+      ],
+      "bytes": 9320,
+      "sha256": "39279b9a005322bbac05109123e2d67bd90d42e6b5a9cc69dd7ae772f8a54576"
+    },
+    {
+      "id": "f-v44",
+      "word": "書く",
+      "reading": "かく",
+      "sourcePage": "https://github.com/tofugu/japanese-vocabulary-pronunciation-audio/blob/9725e0e7d628ab616e8b14e126d3daa33eba8d36/lib/mp3/%E6%9B%B8%E3%81%8F%E3%80%90%E3%81%8B%E3%81%8F%E3%80%91.mp3",
+      "license": "CC BY-SA 4.0",
+      "attribution": [
+        "Tofugu",
+        "WaniKani"
+      ],
+      "bytes": 22140,
+      "sha256": "49ba4a5c072e1aede65c96790e7dc32ed8866203685cab8875b9f649c8c94739"
+    },
+    {
+      "id": "f-v45",
+      "word": "洗う",
+      "reading": "あらう",
+      "sourcePage": "https://github.com/tofugu/japanese-vocabulary-pronunciation-audio/blob/9725e0e7d628ab616e8b14e126d3daa33eba8d36/lib/mp3/%E6%B4%97%E3%81%86%E3%80%90%E3%81%82%E3%82%89%E3%81%86%E3%80%91.mp3",
+      "license": "CC BY-SA 4.0",
+      "attribution": [
+        "Tofugu",
+        "WaniKani"
+      ],
+      "bytes": 31335,
+      "sha256": "a16ce368d5656a4b7f59c3dbdf3acc8439da5eaafcf8ffc29176d14c35c7e949"
+    },
+    {
+      "id": "f-v46",
+      "word": "食べる",
+      "reading": "たべる",
+      "sourcePage": "https://github.com/tofugu/japanese-vocabulary-pronunciation-audio/blob/9725e0e7d628ab616e8b14e126d3daa33eba8d36/lib/mp3/%E9%A3%9F%E3%81%B9%E3%82%8B%E3%80%90%E3%81%9F%E3%81%B9%E3%82%8B%E3%80%91.mp3",
+      "license": "CC BY-SA 4.0",
+      "attribution": [
+        "Tofugu",
+        "WaniKani"
+      ],
+      "bytes": 13076,
+      "sha256": "1ddc6d351bc22895dc20fee9aef610107996dcf1e43fd5f32b41ee88ecf93aa9"
+    },
+    {
+      "id": "f-v47",
+      "word": "飲む",
+      "reading": "のむ",
+      "sourcePage": "https://github.com/tofugu/japanese-vocabulary-pronunciation-audio/blob/9725e0e7d628ab616e8b14e126d3daa33eba8d36/lib/mp3/%E9%A3%B2%E3%82%80%E3%80%90%E3%81%AE%E3%82%80%E3%80%91.mp3",
+      "license": "CC BY-SA 4.0",
+      "attribution": [
+        "Tofugu",
+        "WaniKani"
+      ],
+      "bytes": 10574,
+      "sha256": "84d23e49e701a2cefd3c3c907754d57f38078cdc65b90a15977389acaf31cc74"
+    },
+    {
+      "id": "f-v48",
+      "word": "寝る",
+      "reading": "ねる",
+      "sourcePage": "https://github.com/tofugu/japanese-vocabulary-pronunciation-audio/blob/9725e0e7d628ab616e8b14e126d3daa33eba8d36/lib/mp3/%E5%AF%9D%E3%82%8B%E3%80%90%E3%81%AD%E3%82%8B%E3%80%91.mp3",
+      "license": "CC BY-SA 4.0",
+      "attribution": [
+        "Tofugu",
+        "WaniKani"
+      ],
+      "bytes": 22976,
+      "sha256": "06d5abe78cd9d7b257ba528389ccaa282e5dfbfb5ac44d619a726085ecd8b7e5"
+    },
+    {
+      "id": "f-v49",
+      "word": "起きる",
+      "reading": "おきる",
+      "sourcePage": "https://github.com/tofugu/japanese-vocabulary-pronunciation-audio/blob/9725e0e7d628ab616e8b14e126d3daa33eba8d36/lib/mp3/%E8%B5%B7%E3%81%8D%E3%82%8B%E3%80%90%E3%81%8A%E3%81%8D%E3%82%8B%E3%80%91.mp3",
+      "license": "CC BY-SA 4.0",
+      "attribution": [
+        "Tofugu",
+        "WaniKani"
+      ],
+      "bytes": 12245,
+      "sha256": "c698112d5700198e1be2d101d4fb19e0a363687208e3709ec93786510ec9716a"
+    },
+    {
+      "id": "f-v50",
+      "word": "働く",
+      "reading": "はたらく",
+      "sourcePage": "https://github.com/tofugu/japanese-vocabulary-pronunciation-audio/blob/9725e0e7d628ab616e8b14e126d3daa33eba8d36/lib/mp3/%E5%83%8D%E3%81%8F%E3%80%90%E3%81%AF%E3%81%9F%E3%82%89%E3%81%8F%E3%80%91.mp3",
+      "license": "CC BY-SA 4.0",
+      "attribution": [
+        "Tofugu",
+        "WaniKani"
+      ],
+      "bytes": 15589,
+      "sha256": "31ea6c59be3607c35796a80d9ca4a6349d5b106960db4286bb05f45b74494ba1"
+    },
+    {
+      "id": "f-v51",
+      "word": "休む",
+      "reading": "やすむ",
+      "sourcePage": "https://github.com/tofugu/japanese-vocabulary-pronunciation-audio/blob/9725e0e7d628ab616e8b14e126d3daa33eba8d36/lib/mp3/%E4%BC%91%E3%82%80%E3%80%90%E3%82%84%E3%81%99%E3%82%80%E3%80%91.mp3",
+      "license": "CC BY-SA 4.0",
+      "attribution": [
+        "Tofugu",
+        "WaniKani"
+      ],
+      "bytes": 13518,
+      "sha256": "e9cc242905a3d07ee5c732a326b92fe0ae243b61ac547a0d9c2260dea392188e"
+    },
+    {
+      "id": "f-v52",
+      "word": "困る",
+      "reading": "こまる",
+      "sourcePage": "https://github.com/tofugu/japanese-vocabulary-pronunciation-audio/blob/9725e0e7d628ab616e8b14e126d3daa33eba8d36/lib/mp3/%E5%9B%B0%E3%82%8B%E3%80%90%E3%81%93%E3%81%BE%E3%82%8B%E3%80%91.mp3",
+      "license": "CC BY-SA 4.0",
+      "attribution": [
+        "Tofugu",
+        "WaniKani"
+      ],
+      "bytes": 29309,
+      "sha256": "562d5b96416e874e04195cc428f514fe4c15f14b8615f55ba1ff151f12b8dedf"
+    },
+    {
+      "id": "f-v53",
+      "word": "忙しい",
+      "reading": "いそがしい",
+      "sourcePage": "https://github.com/tofugu/japanese-vocabulary-pronunciation-audio/blob/9725e0e7d628ab616e8b14e126d3daa33eba8d36/lib/mp3/%E5%BF%99%E3%81%97%E3%81%84%E3%80%90%E3%81%84%E3%81%9D%E3%81%8C%E3%81%97%E3%81%84%E3%80%91.mp3",
+      "license": "CC BY-SA 4.0",
+      "attribution": [
+        "Tofugu",
+        "WaniKani"
+      ],
+      "bytes": 34678,
+      "sha256": "71e4f4195a83bc421a8025916ebe33f512e1e977b7608253abd51895504b0475"
+    },
+    {
+      "id": "f-v54",
+      "word": "眠い",
+      "reading": "ねむい",
+      "sourcePage": "https://github.com/tofugu/japanese-vocabulary-pronunciation-audio/blob/9725e0e7d628ab616e8b14e126d3daa33eba8d36/lib/mp3/%E7%9C%A0%E3%81%84%E3%80%90%E3%81%AD%E3%82%80%E3%81%84%E3%80%91.mp3",
+      "license": "CC BY-SA 4.0",
+      "attribution": [
+        "Tofugu",
+        "WaniKani"
+      ],
+      "bytes": 22976,
+      "sha256": "c1be7e0c251995ff1945d5dffeaaaf14d2791e5206192d3d6afba834fe2f1fed"
+    },
+    {
+      "id": "f-v55",
+      "word": "痛い",
+      "reading": "いたい",
+      "sourcePage": "https://github.com/tofugu/japanese-vocabulary-pronunciation-audio/blob/9725e0e7d628ab616e8b14e126d3daa33eba8d36/lib/mp3/%E7%97%9B%E3%81%84%E3%80%90%E3%81%84%E3%81%9F%E3%81%84%E3%80%91.mp3",
+      "license": "CC BY-SA 4.0",
+      "attribution": [
+        "Tofugu",
+        "WaniKani"
+      ],
+      "bytes": 23811,
+      "sha256": "41ca7e8020079319206a8bf3444f729512e8d50d9705e46ca24c259abea1f3f0"
+    },
+    {
+      "id": "f-v56",
+      "word": "弱い",
+      "reading": "よわい",
+      "sourcePage": "https://github.com/tofugu/japanese-vocabulary-pronunciation-audio/blob/9725e0e7d628ab616e8b14e126d3daa33eba8d36/lib/mp3/%E5%BC%B1%E3%81%84%E3%80%90%E3%82%88%E3%82%8F%E3%81%84%E3%80%91.mp3",
+      "license": "CC BY-SA 4.0",
+      "attribution": [
+        "Tofugu",
+        "WaniKani"
+      ],
+      "bytes": 13494,
+      "sha256": "ff431eacdb19f5696ff5802d3227baba9c9c1523abfb7fc7e6ac2634a4d50cf9"
+    },
+    {
+      "id": "f-v57",
+      "word": "強い",
+      "reading": "つよい",
+      "sourcePage": "https://github.com/tofugu/japanese-vocabulary-pronunciation-audio/blob/9725e0e7d628ab616e8b14e126d3daa33eba8d36/lib/mp3/%E5%BC%B7%E3%81%84%E3%80%90%E3%81%A4%E3%82%88%E3%81%84%E3%80%91.mp3",
+      "license": "CC BY-SA 4.0",
+      "attribution": [
+        "Tofugu",
+        "WaniKani"
+      ],
+      "bytes": 12240,
+      "sha256": "681ceefecf206768121638aa502dda41523363bcaf8f7166aae3bb3c8d304401"
+    },
+    {
+      "id": "f-v58",
+      "word": "便利",
+      "reading": "べんり",
+      "sourcePage": "https://github.com/tofugu/japanese-vocabulary-pronunciation-audio/blob/9725e0e7d628ab616e8b14e126d3daa33eba8d36/lib/mp3/%E4%BE%BF%E5%88%A9%E3%80%90%E3%81%B9%E3%82%93%E3%82%8A%E3%80%91.mp3",
+      "license": "CC BY-SA 4.0",
+      "attribution": [
+        "Tofugu",
+        "WaniKani"
+      ],
+      "bytes": 13081,
+      "sha256": "e6d9286f379f452deccc511aa4e89ad0550672c6731d5147c0bb7ada00951957"
+    },
+    {
+      "id": "f-v59",
+      "word": "安全",
+      "reading": "あんぜん",
+      "sourcePage": "https://github.com/tofugu/japanese-vocabulary-pronunciation-audio/blob/9725e0e7d628ab616e8b14e126d3daa33eba8d36/lib/mp3/%E5%AE%89%E5%85%A8%E3%80%90%E3%81%82%E3%82%93%E3%81%9C%E3%82%93%E3%80%91.mp3",
+      "license": "CC BY-SA 4.0",
+      "attribution": [
+        "Tofugu",
+        "WaniKani"
+      ],
+      "bytes": 17256,
+      "sha256": "56f8fb81a226b028b95c8f5b46a436a82a9e49c842cf404d88f8dc68900759bd"
+    },
+    {
+      "id": "f-v60",
+      "word": "危険",
+      "reading": "きけん",
+      "sourcePage": "https://github.com/tofugu/japanese-vocabulary-pronunciation-audio/blob/9725e0e7d628ab616e8b14e126d3daa33eba8d36/lib/mp3/%E5%8D%B1%E9%99%BA%E3%80%90%E3%81%8D%E3%81%91%E3%82%93%E3%80%91.mp3",
+      "license": "CC BY-SA 4.0",
+      "attribution": [
+        "Tofugu",
+        "WaniKani"
+      ],
+      "bytes": 24647,
+      "sha256": "268dd112f6db26e1fdae8cb6550b5f62afbc59fe03d6e15d81a903f5fc81fe45"
+    },
+    {
+      "id": "f-v61",
+      "word": "大切",
+      "reading": "たいせつ",
+      "sourcePage": "https://github.com/tofugu/japanese-vocabulary-pronunciation-audio/blob/9725e0e7d628ab616e8b14e126d3daa33eba8d36/lib/mp3/%E5%A4%A7%E5%88%87%E3%80%90%E3%81%9F%E3%81%84%E3%81%9B%E3%81%A4%E3%80%91.mp3",
+      "license": "CC BY-SA 4.0",
+      "attribution": [
+        "Tofugu",
+        "WaniKani"
+      ],
+      "bytes": 16444,
+      "sha256": "abb21f9e7f4749539f6ecfafcbb770ca60777b00b5f5d68f19914e065c51b142"
+    },
+    {
+      "id": "f-v62",
+      "word": "簡単",
+      "reading": "かんたん",
+      "sourcePage": "https://github.com/tofugu/japanese-vocabulary-pronunciation-audio/blob/9725e0e7d628ab616e8b14e126d3daa33eba8d36/lib/mp3/%E7%B0%A1%E5%8D%98%E3%80%90%E3%81%8B%E3%82%93%E3%81%9F%E3%82%93%E3%80%91.mp3",
+      "license": "CC BY-SA 4.0",
+      "attribution": [
+        "Tofugu",
+        "WaniKani"
+      ],
+      "bytes": 25483,
+      "sha256": "f39fe739a3fe194d02bf9462849fa8fe3eeec1ef5593bfc56369a2e3fd65efc9"
+    },
+    {
+      "id": "f-v63",
+      "word": "静か",
+      "reading": "しずか",
+      "sourcePage": "https://github.com/tofugu/japanese-vocabulary-pronunciation-audio/blob/9725e0e7d628ab616e8b14e126d3daa33eba8d36/lib/mp3/%E9%9D%99%E3%81%8B%E3%80%90%E3%81%97%E3%81%9A%E3%81%8B%E3%80%91.mp3",
+      "license": "CC BY-SA 4.0",
+      "attribution": [
+        "Tofugu",
+        "WaniKani"
+      ],
+      "bytes": 28473,
+      "sha256": "521e8ae9c7d8e72891702a136c6a73089aabd73f8ed6df46695edee3e534b756"
+    },
+    {
+      "id": "f-v64",
+      "word": "元気",
+      "reading": "げんき",
+      "sourcePage": "https://github.com/tofugu/japanese-vocabulary-pronunciation-audio/blob/9725e0e7d628ab616e8b14e126d3daa33eba8d36/lib/mp3/%E5%85%83%E6%B0%97%E3%80%90%E3%81%92%E3%82%93%E3%81%8D%E3%80%91.mp3",
+      "license": "CC BY-SA 4.0",
+      "attribution": [
+        "Tofugu",
+        "WaniKani"
+      ],
+      "bytes": 14772,
+      "sha256": "4fc68a0f2ba2952fa5a7371d14d7197ee774d6625907bdba490fe3ae80f501a3"
+    },
+    {
+      "id": "f-v65",
+      "word": "授業",
+      "reading": "じゅぎょう",
+      "sourcePage": "https://github.com/tofugu/japanese-vocabulary-pronunciation-audio/blob/9725e0e7d628ab616e8b14e126d3daa33eba8d36/lib/mp3/%E6%8E%88%E6%A5%AD%E3%80%90%E3%81%98%E3%82%85%E3%81%8E%E3%82%87%E3%81%86%E3%80%91.mp3",
+      "license": "CC BY-SA 4.0",
+      "attribution": [
+        "Tofugu",
+        "WaniKani"
+      ],
+      "bytes": 24647,
+      "sha256": "e558ac287f9e0f50f58d390a3c4a9934a3f45a8ee9d365ebcb6a35a0c6a9e7af"
+    },
+    {
+      "id": "f-v66",
+      "word": "試験",
+      "reading": "しけん",
+      "sourcePage": "https://github.com/tofugu/japanese-vocabulary-pronunciation-audio/blob/9725e0e7d628ab616e8b14e126d3daa33eba8d36/lib/mp3/%E8%A9%A6%E9%A8%93%E3%80%90%E3%81%97%E3%81%91%E3%82%93%E3%80%91.mp3",
+      "license": "CC BY-SA 4.0",
+      "attribution": [
+        "Tofugu",
+        "WaniKani"
+      ],
+      "bytes": 24293,
+      "sha256": "11f01f4eb329cbcb07d4faf300551eac82ac37caaedf1452bbc91568ea69d8c1"
+    },
+    {
+      "id": "f-v67",
+      "word": "質問",
+      "reading": "しつもん",
+      "sourcePage": "https://github.com/tofugu/japanese-vocabulary-pronunciation-audio/blob/9725e0e7d628ab616e8b14e126d3daa33eba8d36/lib/mp3/%E8%B3%AA%E5%95%8F%E3%80%90%E3%81%97%E3%81%A4%E3%82%82%E3%82%93%E3%80%91.mp3",
+      "license": "CC BY-SA 4.0",
+      "attribution": [
+        "Tofugu",
+        "WaniKani"
+      ],
+      "bytes": 27155,
+      "sha256": "d401704cc286ec030f79f6017ff7bfea6796237c024d1882741b1f141dee80dd"
+    },
+    {
+      "id": "f-v68",
+      "word": "答え",
+      "reading": "こたえ",
+      "sourcePage": "https://github.com/tofugu/japanese-vocabulary-pronunciation-audio/blob/9725e0e7d628ab616e8b14e126d3daa33eba8d36/lib/mp3/%E7%AD%94%E3%81%88%E3%80%90%E3%81%93%E3%81%9F%E3%81%88%E3%80%91.mp3",
+      "license": "CC BY-SA 4.0",
+      "attribution": [
+        "Tofugu",
+        "WaniKani"
+      ],
+      "bytes": 16478,
+      "sha256": "33ee781b16a16f87d336e15ee35d949f546b1c9914260574b4ad744861214d73"
+    },
+    {
+      "id": "f-v69",
+      "word": "時間",
+      "reading": "じかん",
+      "sourcePage": "https://github.com/tofugu/japanese-vocabulary-pronunciation-audio/blob/9725e0e7d628ab616e8b14e126d3daa33eba8d36/lib/mp3/%E6%99%82%E9%96%93%E3%80%90%E3%81%98%E3%81%8B%E3%82%93%E3%80%91.mp3",
+      "license": "CC BY-SA 4.0",
+      "attribution": [
+        "Tofugu",
+        "WaniKani"
+      ],
+      "bytes": 16478,
+      "sha256": "42a50adf3436ce96a5c3eae5c258fd93a7cf42c9a06d148953723dc5548c80e4"
+    },
+    {
+      "id": "f-v70",
+      "word": "場所",
+      "reading": "ばしょ",
+      "sourcePage": "https://github.com/tofugu/japanese-vocabulary-pronunciation-audio/blob/9725e0e7d628ab616e8b14e126d3daa33eba8d36/lib/mp3/%E5%A0%B4%E6%89%80%E3%80%90%E3%81%B0%E3%81%97%E3%82%87%E3%80%91.mp3",
+      "license": "CC BY-SA 4.0",
+      "attribution": [
+        "Tofugu",
+        "WaniKani"
+      ],
+      "bytes": 13134,
+      "sha256": "2fb3e338f78ee233ae237dbe469394ac8a64aba6f3794fda762252b8e83df919"
+    },
+    {
+      "id": "f-v71",
+      "word": "生活",
+      "reading": "せいかつ",
+      "sourcePage": "https://github.com/tofugu/japanese-vocabulary-pronunciation-audio/blob/9725e0e7d628ab616e8b14e126d3daa33eba8d36/lib/mp3/%E7%94%9F%E6%B4%BB%E3%80%90%E3%81%9B%E3%81%84%E3%81%8B%E3%81%A4%E3%80%91.mp3",
+      "license": "CC BY-SA 4.0",
+      "attribution": [
+        "Tofugu",
+        "WaniKani"
+      ],
+      "bytes": 17674,
+      "sha256": "16ed53edad0956f5b39486f9ffb75f5c4fff4e4e1926267b171b7c766900ca95"
+    },
+    {
+      "id": "f-v72",
+      "word": "会議",
+      "reading": "かいぎ",
+      "sourcePage": "https://github.com/tofugu/japanese-vocabulary-pronunciation-audio/blob/9725e0e7d628ab616e8b14e126d3daa33eba8d36/lib/mp3/%E4%BC%9A%E8%AD%B0%E3%80%90%E3%81%8B%E3%81%84%E3%81%8E%E3%80%91.mp3",
+      "license": "CC BY-SA 4.0",
+      "attribution": [
+        "Tofugu",
+        "WaniKani"
+      ],
+      "bytes": 28473,
+      "sha256": "8413ad256641bb72cc0830c542d6b3a707d2b6c37ed7fb53406cd3f9a1d55d53"
+    },
+    {
+      "id": "f-v77",
+      "word": "時々",
+      "reading": "ときどき",
+      "sourcePage": "https://github.com/tofugu/japanese-vocabulary-pronunciation-audio/blob/9725e0e7d628ab616e8b14e126d3daa33eba8d36/lib/mp3/%E6%99%82%E3%80%85%E3%80%90%E3%81%A8%E3%81%8D%E3%81%A9%E3%81%8D%E3%80%91.mp3",
+      "license": "CC BY-SA 4.0",
+      "attribution": [
+        "Tofugu",
+        "WaniKani"
+      ],
+      "bytes": 13917,
+      "sha256": "18574735d5429d02d6b7016553da9778c21fa9c309792a16e7a07c4cf5cb010f"
+    },
+    {
+      "id": "f-v79",
+      "word": "必ず",
+      "reading": "かならず",
+      "sourcePage": "https://github.com/tofugu/japanese-vocabulary-pronunciation-audio/blob/9725e0e7d628ab616e8b14e126d3daa33eba8d36/lib/mp3/%E5%BF%85%E3%81%9A%E3%80%90%E3%81%8B%E3%81%AA%E3%82%89%E3%81%9A%E3%80%91.mp3",
+      "license": "CC BY-SA 4.0",
+      "attribution": [
+        "Tofugu",
+        "WaniKani"
+      ],
+      "bytes": 16420,
+      "sha256": "95b270a67f0139f053c6ef47c2d7ad8dc07b47d5f693776668bbccb22e303bae"
+    },
+    {
+      "id": "f-v80",
+      "word": "一緒",
+      "reading": "いっしょ",
+      "sourcePage": "https://github.com/tofugu/japanese-vocabulary-pronunciation-audio/blob/9725e0e7d628ab616e8b14e126d3daa33eba8d36/lib/mp3/%E4%B8%80%E7%B7%92%E3%80%90%E3%81%84%E3%81%A3%E3%81%97%E3%82%87%E3%80%91.mp3",
+      "license": "CC BY-SA 4.0",
+      "attribution": [
+        "Tofugu",
+        "WaniKani"
+      ],
+      "bytes": 22140,
+      "sha256": "409ffc873f6ae60062a9bfc74ca7762328b4d22dfc34307f695b98a2cc59fbd6"
+    },
+    {
+      "id": "b-v01",
+      "word": "上がる",
+      "reading": "あがる",
+      "sourcePage": "https://github.com/tofugu/japanese-vocabulary-pronunciation-audio/blob/9725e0e7d628ab616e8b14e126d3daa33eba8d36/lib/mp3/%E4%B8%8A%E3%81%8C%E3%82%8B%E3%80%90%E3%81%82%E3%81%8C%E3%82%8B%E3%80%91.mp3",
+      "license": "CC BY-SA 4.0",
+      "attribution": [
+        "Tofugu",
+        "WaniKani"
+      ],
+      "bytes": 11428,
+      "sha256": "398d213c2b64beeece6d31f280b3faf09a3623110fa3cd4c57132e007be7c99c"
+    },
+    {
+      "id": "b-v02",
+      "word": "上げる",
+      "reading": "あげる",
+      "sourcePage": "https://github.com/tofugu/japanese-vocabulary-pronunciation-audio/blob/9725e0e7d628ab616e8b14e126d3daa33eba8d36/lib/mp3/%E4%B8%8A%E3%81%92%E3%82%8B%E3%80%90%E3%81%82%E3%81%92%E3%82%8B%E3%80%91.mp3",
+      "license": "CC BY-SA 4.0",
+      "attribution": [
+        "Tofugu",
+        "WaniKani"
+      ],
+      "bytes": 11846,
+      "sha256": "ae2b85023dd69ffc30d2e7ce736f057821ae638e120b8ae8a835c9e79a3e2d57"
+    },
+    {
+      "id": "b-v03",
+      "word": "下がる",
+      "reading": "さがる",
+      "sourcePage": "https://github.com/tofugu/japanese-vocabulary-pronunciation-audio/blob/9725e0e7d628ab616e8b14e126d3daa33eba8d36/lib/mp3/%E4%B8%8B%E3%81%8C%E3%82%8B%E3%80%90%E3%81%95%E3%81%8C%E3%82%8B%E3%80%91.mp3",
+      "license": "CC BY-SA 4.0",
+      "attribution": [
+        "Tofugu",
+        "WaniKani"
+      ],
+      "bytes": 12682,
+      "sha256": "1cf8044ab968b97568db3474ad7714ec54b017f61f09edffe6b9f901635fbd2f"
+    },
+    {
+      "id": "b-v04",
+      "word": "下げる",
+      "reading": "さげる",
+      "sourcePage": "https://github.com/tofugu/japanese-vocabulary-pronunciation-audio/blob/9725e0e7d628ab616e8b14e126d3daa33eba8d36/lib/mp3/%E4%B8%8B%E3%81%92%E3%82%8B%E3%80%90%E3%81%95%E3%81%92%E3%82%8B%E3%80%91.mp3",
+      "license": "CC BY-SA 4.0",
+      "attribution": [
+        "Tofugu",
+        "WaniKani"
+      ],
+      "bytes": 13518,
+      "sha256": "733d12c0b429166ceb0d77e0b41d09f5cb78da99281f0ceea439e2ad647a857f"
+    },
+    {
+      "id": "b-v05",
+      "word": "増える",
+      "reading": "ふえる",
+      "sourcePage": "https://github.com/tofugu/japanese-vocabulary-pronunciation-audio/blob/9725e0e7d628ab616e8b14e126d3daa33eba8d36/lib/mp3/%E5%A2%97%E3%81%88%E3%82%8B%E3%80%90%E3%81%B5%E3%81%88%E3%82%8B%E3%80%91.mp3",
+      "license": "CC BY-SA 4.0",
+      "attribution": [
+        "Tofugu",
+        "WaniKani"
+      ],
+      "bytes": 26319,
+      "sha256": "a908871d8665885a76db33d25e2f8187c86ba5e1e61f83195a3acb5bc0f3c4a0"
+    },
+    {
+      "id": "b-v06",
+      "word": "増やす",
+      "reading": "ふやす",
+      "sourcePage": "https://github.com/tofugu/japanese-vocabulary-pronunciation-audio/blob/9725e0e7d628ab616e8b14e126d3daa33eba8d36/lib/mp3/%E5%A2%97%E3%82%84%E3%81%99%E3%80%90%E3%81%B5%E3%82%84%E3%81%99%E3%80%91.mp3",
+      "license": "CC BY-SA 4.0",
+      "attribution": [
+        "Tofugu",
+        "WaniKani"
+      ],
+      "bytes": 28827,
+      "sha256": "c1dad147d1300397dcd6586eb833052b00888b65916fa430be7178411ea50dd5"
+    },
+    {
+      "id": "b-v07",
+      "word": "減る",
+      "reading": "へる",
+      "sourcePage": "https://github.com/tofugu/japanese-vocabulary-pronunciation-audio/blob/9725e0e7d628ab616e8b14e126d3daa33eba8d36/lib/mp3/%E6%B8%9B%E3%82%8B%E3%80%90%E3%81%B8%E3%82%8B%E3%80%91.mp3",
+      "license": "CC BY-SA 4.0",
+      "attribution": [
+        "Tofugu",
+        "WaniKani"
+      ],
+      "bytes": 22976,
+      "sha256": "aef44eff3223d4a7bad2402bde5332822062242d94524df02a339712705dbdc1"
+    },
+    {
+      "id": "b-v08",
+      "word": "減らす",
+      "reading": "へらす",
+      "sourcePage": "https://github.com/tofugu/japanese-vocabulary-pronunciation-audio/blob/9725e0e7d628ab616e8b14e126d3daa33eba8d36/lib/mp3/%E6%B8%9B%E3%82%89%E3%81%99%E3%80%90%E3%81%B8%E3%82%89%E3%81%99%E3%80%91.mp3",
+      "license": "CC BY-SA 4.0",
+      "attribution": [
+        "Tofugu",
+        "WaniKani"
+      ],
+      "bytes": 27155,
+      "sha256": "7e2ec8d85f5ea5a28a5f2c62de9f8bc6267fc78ed2348b461b5a7bd65f4bf8a8"
+    },
+    {
+      "id": "b-v09",
+      "word": "壊れる",
+      "reading": "こわれる",
+      "sourcePage": "https://github.com/tofugu/japanese-vocabulary-pronunciation-audio/blob/9725e0e7d628ab616e8b14e126d3daa33eba8d36/lib/mp3/%E5%A3%8A%E3%82%8C%E3%82%8B%E3%80%90%E3%81%93%E3%82%8F%E3%82%8C%E3%82%8B%E3%80%91.mp3",
+      "license": "CC BY-SA 4.0",
+      "attribution": [
+        "Tofugu",
+        "WaniKani"
+      ],
+      "bytes": 24647,
+      "sha256": "6713166df5dc101c378a7682bc64ed1e5a69bcd4b0aff2f1a8bc4f3ac2f0332e"
+    },
+    {
+      "id": "b-v10",
+      "word": "壊す",
+      "reading": "こわす",
+      "sourcePage": "https://github.com/tofugu/japanese-vocabulary-pronunciation-audio/blob/9725e0e7d628ab616e8b14e126d3daa33eba8d36/lib/mp3/%E5%A3%8A%E3%81%99%E3%80%90%E3%81%93%E3%82%8F%E3%81%99%E3%80%91.mp3",
+      "license": "CC BY-SA 4.0",
+      "attribution": [
+        "Tofugu",
+        "WaniKani"
+      ],
+      "bytes": 23811,
+      "sha256": "97e949a74b903c23981b776046215346605eacf241de2c07b750a71799f1bc94"
+    },
+    {
+      "id": "b-v11",
+      "word": "直る",
+      "reading": "なおる",
+      "sourcePage": "https://github.com/tofugu/japanese-vocabulary-pronunciation-audio/blob/9725e0e7d628ab616e8b14e126d3daa33eba8d36/lib/mp3/%E7%9B%B4%E3%82%8B%E3%80%90%E3%81%AA%E3%81%8A%E3%82%8B%E3%80%91.mp3",
+      "license": "CC BY-SA 4.0",
+      "attribution": [
+        "Tofugu",
+        "WaniKani"
+      ],
+      "bytes": 13912,
+      "sha256": "fb5651030b8a58468c66596051ca187f832e4728366697382e3dc89d9cbcf599"
+    },
+    {
+      "id": "b-v12",
+      "word": "直す",
+      "reading": "なおす",
+      "sourcePage": "https://github.com/tofugu/japanese-vocabulary-pronunciation-audio/blob/9725e0e7d628ab616e8b14e126d3daa33eba8d36/lib/mp3/%E7%9B%B4%E3%81%99%E3%80%90%E3%81%AA%E3%81%8A%E3%81%99%E3%80%91.mp3",
+      "license": "CC BY-SA 4.0",
+      "attribution": [
+        "Tofugu",
+        "WaniKani"
+      ],
+      "bytes": 16420,
+      "sha256": "57faaf09f135c3951966c57744d3f7b2ee0887a85fb83fa40e83a0ba28b8abd7"
+    },
+    {
+      "id": "b-v13",
+      "word": "落ちる",
+      "reading": "おちる",
+      "sourcePage": "https://github.com/tofugu/japanese-vocabulary-pronunciation-audio/blob/9725e0e7d628ab616e8b14e126d3daa33eba8d36/lib/mp3/%E8%90%BD%E3%81%A1%E3%82%8B%E3%80%90%E3%81%8A%E3%81%A1%E3%82%8B%E3%80%91.mp3",
+      "license": "CC BY-SA 4.0",
+      "attribution": [
+        "Tofugu",
+        "WaniKani"
+      ],
+      "bytes": 11827,
+      "sha256": "3af1e1b18e284312e07767092535a86e2668787f51828cd7c1f835eb47124b2c"
+    },
+    {
+      "id": "b-v14",
+      "word": "落とす",
+      "reading": "おとす",
+      "sourcePage": "https://github.com/tofugu/japanese-vocabulary-pronunciation-audio/blob/9725e0e7d628ab616e8b14e126d3daa33eba8d36/lib/mp3/%E8%90%BD%E3%81%A8%E3%81%99%E3%80%90%E3%81%8A%E3%81%A8%E3%81%99%E3%80%91.mp3",
+      "license": "CC BY-SA 4.0",
+      "attribution": [
+        "Tofugu",
+        "WaniKani"
+      ],
+      "bytes": 13081,
+      "sha256": "5194b8ce5846e631fb40fd4714da3188753d807564d571aaa5837ae681336a6a"
+    },
+    {
+      "id": "b-v15",
+      "word": "変わる",
+      "reading": "かわる",
+      "sourcePage": "https://github.com/tofugu/japanese-vocabulary-pronunciation-audio/blob/9725e0e7d628ab616e8b14e126d3daa33eba8d36/lib/mp3/%E5%A4%89%E3%82%8F%E3%82%8B%E3%80%90%E3%81%8B%E3%82%8F%E3%82%8B%E3%80%91.mp3",
+      "license": "CC BY-SA 4.0",
+      "attribution": [
+        "Tofugu",
+        "WaniKani"
+      ],
+      "bytes": 26311,
+      "sha256": "9ecd3b2062735796ba1d8c25e85ca6d84bb2dab009d5cba11b8d9f9a4278c682"
+    },
+    {
+      "id": "b-v16",
+      "word": "変える",
+      "reading": "かえる",
+      "sourcePage": "https://github.com/tofugu/japanese-vocabulary-pronunciation-audio/blob/9725e0e7d628ab616e8b14e126d3daa33eba8d36/lib/mp3/%E5%A4%89%E3%81%88%E3%82%8B%E3%80%90%E3%81%8B%E3%81%88%E3%82%8B%E3%80%91.mp3",
+      "license": "CC BY-SA 4.0",
+      "attribution": [
+        "Tofugu",
+        "WaniKani"
+      ],
+      "bytes": 22140,
+      "sha256": "536ea55868dd8db2b2164f12d9f45833007eaf9061925b47358ae53c0e26fac2"
+    },
+    {
+      "id": "b-v17",
+      "word": "集まる",
+      "reading": "あつまる",
+      "sourcePage": "https://github.com/tofugu/japanese-vocabulary-pronunciation-audio/blob/9725e0e7d628ab616e8b14e126d3daa33eba8d36/lib/mp3/%E9%9B%86%E3%81%BE%E3%82%8B%E3%80%90%E3%81%82%E3%81%A4%E3%81%BE%E3%82%8B%E3%80%91.mp3",
+      "license": "CC BY-SA 4.0",
+      "attribution": [
+        "Tofugu",
+        "WaniKani"
+      ],
+      "bytes": 15589,
+      "sha256": "39c72e4c83e874ad0ee3d536e5a173a83139d15e63c922f9cdeb0581abdffb02"
+    },
+    {
+      "id": "b-v18",
+      "word": "集める",
+      "reading": "あつめる",
+      "sourcePage": "https://github.com/tofugu/japanese-vocabulary-pronunciation-audio/blob/9725e0e7d628ab616e8b14e126d3daa33eba8d36/lib/mp3/%E9%9B%86%E3%82%81%E3%82%8B%E3%80%90%E3%81%82%E3%81%A4%E3%82%81%E3%82%8B%E3%80%91.mp3",
+      "license": "CC BY-SA 4.0",
+      "attribution": [
+        "Tofugu",
+        "WaniKani"
+      ],
+      "bytes": 16843,
+      "sha256": "3f79a41f7a1c8f81511b4e2774033c3197b91d4e7478f3e705841d26176b2f03"
+    },
+    {
+      "id": "b-v19",
+      "word": "動く",
+      "reading": "うごく",
+      "sourcePage": "https://github.com/tofugu/japanese-vocabulary-pronunciation-audio/blob/9725e0e7d628ab616e8b14e126d3daa33eba8d36/lib/mp3/%E5%8B%95%E3%81%8F%E3%80%90%E3%81%86%E3%81%94%E3%81%8F%E3%80%91.mp3",
+      "license": "CC BY-SA 4.0",
+      "attribution": [
+        "Tofugu",
+        "WaniKani"
+      ],
+      "bytes": 26319,
+      "sha256": "3f94c5585764544d32e7bda49224f5826240ea0c95a33e7bfed0c9bb0edebea4"
+    },
+    {
+      "id": "b-v20",
+      "word": "動かす",
+      "reading": "うごかす",
+      "sourcePage": "https://github.com/tofugu/japanese-vocabulary-pronunciation-audio/blob/9725e0e7d628ab616e8b14e126d3daa33eba8d36/lib/mp3/%E5%8B%95%E3%81%8B%E3%81%99%E3%80%90%E3%81%86%E3%81%94%E3%81%8B%E3%81%99%E3%80%91.mp3",
+      "license": "CC BY-SA 4.0",
+      "attribution": [
+        "Tofugu",
+        "WaniKani"
+      ],
+      "bytes": 15104,
+      "sha256": "657eab230062a6050ff95ffdb7d9ab92ed99790ae670eb2115623874050f6ff5"
+    },
+    {
+      "id": "b-v21",
+      "word": "伝える",
+      "reading": "つたえる",
+      "sourcePage": "https://github.com/tofugu/japanese-vocabulary-pronunciation-audio/blob/9725e0e7d628ab616e8b14e126d3daa33eba8d36/lib/mp3/%E4%BC%9D%E3%81%88%E3%82%8B%E3%80%90%E3%81%A4%E3%81%9F%E3%81%88%E3%82%8B%E3%80%91.mp3",
+      "license": "CC BY-SA 4.0",
+      "attribution": [
+        "Tofugu",
+        "WaniKani"
+      ],
+      "bytes": 15171,
+      "sha256": "e7a666aed43bc6aac81f808a1fe41090167926530102745e376d31c7e466977f"
+    },
+    {
+      "id": "b-v22",
+      "word": "伝わる",
+      "reading": "つたわる",
+      "sourcePage": "https://github.com/tofugu/japanese-vocabulary-pronunciation-audio/blob/9725e0e7d628ab616e8b14e126d3daa33eba8d36/lib/mp3/%E4%BC%9D%E3%82%8F%E3%82%8B%E3%80%90%E3%81%A4%E3%81%9F%E3%82%8F%E3%82%8B%E3%80%91.mp3",
+      "license": "CC BY-SA 4.0",
+      "attribution": [
+        "Tofugu",
+        "WaniKani"
+      ],
+      "bytes": 15589,
+      "sha256": "7712ff40ea628318207c973e1c32fad34489fad85df8103b0eb4faf9c384a8da"
+    },
+    {
+      "id": "b-v23",
+      "word": "受ける",
+      "reading": "うける",
+      "sourcePage": "https://github.com/tofugu/japanese-vocabulary-pronunciation-audio/blob/9725e0e7d628ab616e8b14e126d3daa33eba8d36/lib/mp3/%E5%8F%97%E3%81%91%E3%82%8B%E3%80%90%E3%81%86%E3%81%91%E3%82%8B%E3%80%91.mp3",
+      "license": "CC BY-SA 4.0",
+      "attribution": [
+        "Tofugu",
+        "WaniKani"
+      ],
+      "bytes": 10992,
+      "sha256": "d0bd83b84e9943f31bbabc58512949180af8dc6189aa920e14b530020830ffae"
+    },
+    {
+      "id": "b-v25",
+      "word": "断る",
+      "reading": "ことわる",
+      "sourcePage": "https://github.com/tofugu/japanese-vocabulary-pronunciation-audio/blob/9725e0e7d628ab616e8b14e126d3daa33eba8d36/lib/mp3/%E6%96%AD%E3%82%8B%E3%80%90%E3%81%93%E3%81%A8%E3%82%8F%E3%82%8B%E3%80%91.mp3",
+      "license": "CC BY-SA 4.0",
+      "attribution": [
+        "Tofugu",
+        "WaniKani"
+      ],
+      "bytes": 27991,
+      "sha256": "27e4603c09bff9510e171b95be80985e438f1a44cd12cfd3da8ea6825c6a63f6"
+    },
+    {
+      "id": "b-v26",
+      "word": "頼む",
+      "reading": "たのむ",
+      "sourcePage": "https://github.com/tofugu/japanese-vocabulary-pronunciation-audio/blob/9725e0e7d628ab616e8b14e126d3daa33eba8d36/lib/mp3/%E9%A0%BC%E3%82%80%E3%80%90%E3%81%9F%E3%81%AE%E3%82%80%E3%80%91.mp3",
+      "license": "CC BY-SA 4.0",
+      "attribution": [
+        "Tofugu",
+        "WaniKani"
+      ],
+      "bytes": 27991,
+      "sha256": "a314d4c004371e9fd22d36a4bc802abba4001cf098cade29ca6d5d90f63fb5bc"
+    },
+    {
+      "id": "b-v27",
+      "word": "手伝う",
+      "reading": "てつだう",
+      "sourcePage": "https://github.com/tofugu/japanese-vocabulary-pronunciation-audio/blob/9725e0e7d628ab616e8b14e126d3daa33eba8d36/lib/mp3/%E6%89%8B%E4%BC%9D%E3%81%86%E3%80%90%E3%81%A6%E3%81%A4%E3%81%A0%E3%81%86%E3%80%91.mp3",
+      "license": "CC BY-SA 4.0",
+      "attribution": [
+        "Tofugu",
+        "WaniKani"
+      ],
+      "bytes": 15171,
+      "sha256": "3c448f57ec94fa1c53347c002868b98e6aa57e0ca1e944da6e80c507afecc5cf"
+    },
+    {
+      "id": "b-v28",
+      "word": "相談",
+      "reading": "そうだん",
+      "sourcePage": "https://github.com/tofugu/japanese-vocabulary-pronunciation-audio/blob/9725e0e7d628ab616e8b14e126d3daa33eba8d36/lib/mp3/%E7%9B%B8%E8%AB%87%E3%80%90%E3%81%9D%E3%81%86%E3%81%A0%E3%82%93%E3%80%91.mp3",
+      "license": "CC BY-SA 4.0",
+      "attribution": [
+        "Tofugu",
+        "WaniKani"
+      ],
+      "bytes": 15589,
+      "sha256": "9bf4fd924141657e9f132446d1856acf69a55c2a3b3e8a3ec22285a4e777e05d"
+    },
+    {
+      "id": "b-v29",
+      "word": "調べる",
+      "reading": "しらべる",
+      "sourcePage": "https://github.com/tofugu/japanese-vocabulary-pronunciation-audio/blob/9725e0e7d628ab616e8b14e126d3daa33eba8d36/lib/mp3/%E8%AA%BF%E3%81%B9%E3%82%8B%E3%80%90%E3%81%97%E3%82%89%E3%81%B9%E3%82%8B%E3%80%91.mp3",
+      "license": "CC BY-SA 4.0",
+      "attribution": [
+        "Tofugu",
+        "WaniKani"
+      ],
+      "bytes": 14335,
+      "sha256": "7c11a4f1403d4b95849128660667756b5d80d7bcc03780a1b3dd26029574cedb"
+    },
+    {
+      "id": "b-v32",
+      "word": "思い出す",
+      "reading": "おもいだす",
+      "sourcePage": "https://github.com/tofugu/japanese-vocabulary-pronunciation-audio/blob/9725e0e7d628ab616e8b14e126d3daa33eba8d36/lib/mp3/%E6%80%9D%E3%81%84%E5%87%BA%E3%81%99%E3%80%90%E3%81%8A%E3%82%82%E3%81%84%E3%81%A0%E3%81%99%E3%80%91.mp3",
+      "license": "CC BY-SA 4.0",
+      "attribution": [
+        "Tofugu",
+        "WaniKani"
+      ],
+      "bytes": 18568,
+      "sha256": "bd546ef74f0cb54ad65532627506f1f4084b8425f2ad1169ed21eca11e865185"
+    },
+    {
+      "id": "b-v34",
+      "word": "残る",
+      "reading": "のこる",
+      "sourcePage": "https://github.com/tofugu/japanese-vocabulary-pronunciation-audio/blob/9725e0e7d628ab616e8b14e126d3daa33eba8d36/lib/mp3/%E6%AE%8B%E3%82%8B%E3%80%90%E3%81%AE%E3%81%93%E3%82%8B%E3%80%91.mp3",
+      "license": "CC BY-SA 4.0",
+      "attribution": [
+        "Tofugu",
+        "WaniKani"
+      ],
+      "bytes": 12178,
+      "sha256": "d69ffd4a5e8e8b88b75ab2f885fb7c53672c7d75998eb48ae16a2eb5ef269082"
+    },
+    {
+      "id": "b-v35",
+      "word": "残す",
+      "reading": "のこす",
+      "sourcePage": "https://github.com/tofugu/japanese-vocabulary-pronunciation-audio/blob/9725e0e7d628ab616e8b14e126d3daa33eba8d36/lib/mp3/%E6%AE%8B%E3%81%99%E3%80%90%E3%81%AE%E3%81%93%E3%81%99%E3%80%91.mp3",
+      "license": "CC BY-SA 4.0",
+      "attribution": [
+        "Tofugu",
+        "WaniKani"
+      ],
+      "bytes": 27155,
+      "sha256": "b2534902a44de8447c7ee271444599457f94ade44cd8793bfa35ecf07ecccfc5"
+    },
+    {
+      "id": "b-v36",
+      "word": "足りる",
+      "reading": "たりる",
+      "sourcePage": "https://github.com/tofugu/japanese-vocabulary-pronunciation-audio/blob/9725e0e7d628ab616e8b14e126d3daa33eba8d36/lib/mp3/%E8%B6%B3%E3%82%8A%E3%82%8B%E3%80%90%E3%81%9F%E3%82%8A%E3%82%8B%E3%80%91.mp3",
+      "license": "CC BY-SA 4.0",
+      "attribution": [
+        "Tofugu",
+        "WaniKani"
+      ],
+      "bytes": 13518,
+      "sha256": "69eca3423c88152d6bdb6d43ec963a5f753f9ba4944b5b5dde5187496c2b078c"
+    },
+    {
+      "id": "b-v37",
+      "word": "間違える",
+      "reading": "まちがえる",
+      "sourcePage": "https://github.com/tofugu/japanese-vocabulary-pronunciation-audio/blob/9725e0e7d628ab616e8b14e126d3daa33eba8d36/lib/mp3/%E9%96%93%E9%81%95%E3%81%88%E3%82%8B%E3%80%90%E3%81%BE%E3%81%A1%E3%81%8C%E3%81%88%E3%82%8B%E3%80%91.mp3",
+      "license": "CC BY-SA 4.0",
+      "attribution": [
+        "Tofugu",
+        "WaniKani"
+      ],
+      "bytes": 43030,
+      "sha256": "0379bcae7d21c12bace9cea0ed7110be0ad61e41077eeed4d1d23f790f657447"
+    },
+    {
+      "id": "b-v38",
+      "word": "違う",
+      "reading": "ちがう",
+      "sourcePage": "https://github.com/tofugu/japanese-vocabulary-pronunciation-audio/blob/9725e0e7d628ab616e8b14e126d3daa33eba8d36/lib/mp3/%E9%81%95%E3%81%86%E3%80%90%E3%81%A1%E3%81%8C%E3%81%86%E3%80%91.mp3",
+      "license": "CC BY-SA 4.0",
+      "attribution": [
+        "Tofugu",
+        "WaniKani"
+      ],
+      "bytes": 23811,
+      "sha256": "ae5f95ef5cf7fadda33235297cd118bbe828db0420214adc90b79908abe56ee2"
+    },
+    {
+      "id": "b-v39",
+      "word": "似る",
+      "reading": "にる",
+      "sourcePage": "https://github.com/tofugu/japanese-vocabulary-pronunciation-audio/blob/9725e0e7d628ab616e8b14e126d3daa33eba8d36/lib/mp3/%E4%BC%BC%E3%82%8B%E3%80%90%E3%81%AB%E3%82%8B%E3%80%91.mp3",
+      "license": "CC BY-SA 4.0",
+      "attribution": [
+        "Tofugu",
+        "WaniKani"
+      ],
+      "bytes": 17960,
+      "sha256": "5e9b2dd31a3e266f623fa430d65f4a50fb95196c666ec56052f1c9beb740d086"
+    },
+    {
+      "id": "b-v40",
+      "word": "間違い",
+      "reading": "まちがい",
+      "sourcePage": "https://github.com/tofugu/japanese-vocabulary-pronunciation-audio/blob/9725e0e7d628ab616e8b14e126d3daa33eba8d36/lib/mp3/%E9%96%93%E9%81%95%E3%81%84%E3%80%90%E3%81%BE%E3%81%A1%E3%81%8C%E3%81%84%E3%80%91.mp3",
+      "license": "CC BY-SA 4.0",
+      "attribution": [
+        "Tofugu",
+        "WaniKani"
+      ],
+      "bytes": 27991,
+      "sha256": "774d831748e5a991013891784a7a804d0d17837b57e46ed25e04bfb462e2726b"
+    },
+    {
+      "id": "b-v41",
+      "word": "経験",
+      "reading": "けいけん",
+      "sourcePage": "https://github.com/tofugu/japanese-vocabulary-pronunciation-audio/blob/9725e0e7d628ab616e8b14e126d3daa33eba8d36/lib/mp3/%E7%B5%8C%E9%A8%93%E3%80%90%E3%81%91%E3%81%84%E3%81%91%E3%82%93%E3%80%91.mp3",
+      "license": "CC BY-SA 4.0",
+      "attribution": [
+        "Tofugu",
+        "WaniKani"
+      ],
+      "bytes": 29309,
+      "sha256": "a813e9280af80871c47f0c2433de4b6a4303b8fe47c1832210376cab8461b7c8"
+    },
+    {
+      "id": "b-v42",
+      "word": "機会",
+      "reading": "きかい",
+      "sourcePage": "https://github.com/tofugu/japanese-vocabulary-pronunciation-audio/blob/9725e0e7d628ab616e8b14e126d3daa33eba8d36/lib/mp3/%E6%A9%9F%E4%BC%9A%E3%80%90%E3%81%8D%E3%81%8B%E3%81%84%E3%80%91.mp3",
+      "license": "CC BY-SA 4.0",
+      "attribution": [
+        "Tofugu",
+        "WaniKani"
+      ],
+      "bytes": 20468,
+      "sha256": "854b20c35901c719af18a68a0a7fd98340f010ae112b6151409223a9cc621822"
+    },
+    {
+      "id": "b-v43",
+      "word": "関係",
+      "reading": "かんけい",
+      "sourcePage": "https://github.com/tofugu/japanese-vocabulary-pronunciation-audio/blob/9725e0e7d628ab616e8b14e126d3daa33eba8d36/lib/mp3/%E9%96%A2%E4%BF%82%E3%80%90%E3%81%8B%E3%82%93%E3%81%91%E3%81%84%E3%80%91.mp3",
+      "license": "CC BY-SA 4.0",
+      "attribution": [
+        "Tofugu",
+        "WaniKani"
+      ],
+      "bytes": 27991,
+      "sha256": "bea577b434dbca0764b6056f53b957ab9b6e7fd44279ef12dfa4c696593c667a"
+    },
+    {
+      "id": "b-v44",
+      "word": "方法",
+      "reading": "ほうほう",
+      "sourcePage": "https://github.com/tofugu/japanese-vocabulary-pronunciation-audio/blob/9725e0e7d628ab616e8b14e126d3daa33eba8d36/lib/mp3/%E6%96%B9%E6%B3%95%E3%80%90%E3%81%BB%E3%81%86%E3%81%BB%E3%81%86%E3%80%91.mp3",
+      "license": "CC BY-SA 4.0",
+      "attribution": [
+        "Tofugu",
+        "WaniKani"
+      ],
+      "bytes": 15104,
+      "sha256": "da5f5c7b69d3fbc2bcd294ea6a9d4de121d3b90f03b3e8c59069d4d28035323b"
+    },
+    {
+      "id": "b-v45",
+      "word": "説明",
+      "reading": "せつめい",
+      "sourcePage": "https://github.com/tofugu/japanese-vocabulary-pronunciation-audio/blob/9725e0e7d628ab616e8b14e126d3daa33eba8d36/lib/mp3/%E8%AA%AC%E6%98%8E%E3%80%90%E3%81%9B%E3%81%A4%E3%82%81%E3%81%84%E3%80%91.mp3",
+      "license": "CC BY-SA 4.0",
+      "attribution": [
+        "Tofugu",
+        "WaniKani"
+      ],
+      "bytes": 33842,
+      "sha256": "e53839784e54383b3d41ff607d715c5a820609c9d50183cfed4ea691ece053f6"
+    },
+    {
+      "id": "b-v46",
+      "word": "意見",
+      "reading": "いけん",
+      "sourcePage": "https://github.com/tofugu/japanese-vocabulary-pronunciation-audio/blob/9725e0e7d628ab616e8b14e126d3daa33eba8d36/lib/mp3/%E6%84%8F%E8%A6%8B%E3%80%90%E3%81%84%E3%81%91%E3%82%93%E3%80%91.mp3",
+      "license": "CC BY-SA 4.0",
+      "attribution": [
+        "Tofugu",
+        "WaniKani"
+      ],
+      "bytes": 12663,
+      "sha256": "6bb39a8b8975d7cca68e699ddaac3b57620ec8bf20e29e4c03de53619c122808"
+    },
+    {
+      "id": "b-v47",
+      "word": "理由",
+      "reading": "りゆう",
+      "sourcePage": "https://github.com/tofugu/japanese-vocabulary-pronunciation-audio/blob/9725e0e7d628ab616e8b14e126d3daa33eba8d36/lib/mp3/%E7%90%86%E7%94%B1%E3%80%90%E3%82%8A%E3%82%86%E3%81%86%E3%80%91.mp3",
+      "license": "CC BY-SA 4.0",
+      "attribution": [
+        "Tofugu",
+        "WaniKani"
+      ],
+      "bytes": 12240,
+      "sha256": "8c96fa627edf461c1678e8c3cab21b0456cf03801177b0a91abd3b0dca8b152e"
+    },
+    {
+      "id": "b-v48",
+      "word": "結果",
+      "reading": "けっか",
+      "sourcePage": "https://github.com/tofugu/japanese-vocabulary-pronunciation-audio/blob/9725e0e7d628ab616e8b14e126d3daa33eba8d36/lib/mp3/%E7%B5%90%E6%9E%9C%E3%80%90%E3%81%91%E3%81%A3%E3%81%8B%E3%80%91.mp3",
+      "license": "CC BY-SA 4.0",
+      "attribution": [
+        "Tofugu",
+        "WaniKani"
+      ],
+      "bytes": 26319,
+      "sha256": "c927d3df29b1653fe4449d0c431b134320a6232f3f68bf229132cda3a2244a52"
+    },
+    {
+      "id": "b-v49",
+      "word": "目的",
+      "reading": "もくてき",
+      "sourcePage": "https://github.com/tofugu/japanese-vocabulary-pronunciation-audio/blob/9725e0e7d628ab616e8b14e126d3daa33eba8d36/lib/mp3/%E7%9B%AE%E7%9A%84%E3%80%90%E3%82%82%E3%81%8F%E3%81%A6%E3%81%8D%E3%80%91.mp3",
+      "license": "CC BY-SA 4.0",
+      "attribution": [
+        "Tofugu",
+        "WaniKani"
+      ],
+      "bytes": 15940,
+      "sha256": "892a15c11da9ad7c06463da4456463ec96d54e861f54afa49b9bdd4eba6a8163"
+    },
+    {
+      "id": "b-v50",
+      "word": "習慣",
+      "reading": "しゅうかん",
+      "sourcePage": "https://github.com/tofugu/japanese-vocabulary-pronunciation-audio/blob/9725e0e7d628ab616e8b14e126d3daa33eba8d36/lib/mp3/%E7%BF%92%E6%85%A3%E3%80%90%E3%81%97%E3%82%85%E3%81%86%E3%81%8B%E3%82%93%E3%80%91.mp3",
+      "license": "CC BY-SA 4.0",
+      "attribution": [
+        "Tofugu",
+        "WaniKani"
+      ],
+      "bytes": 27991,
+      "sha256": "0ea45c31a7cf88558d830d3d2893c54761bef3ff858c2fd81523156bef65b51c"
+    },
+    {
+      "id": "b-v51",
+      "word": "努力",
+      "reading": "どりょく",
+      "sourcePage": "https://github.com/tofugu/japanese-vocabulary-pronunciation-audio/blob/9725e0e7d628ab616e8b14e126d3daa33eba8d36/lib/mp3/%E5%8A%AA%E5%8A%9B%E3%80%90%E3%81%A9%E3%82%8A%E3%82%87%E3%81%8F%E3%80%91.mp3",
+      "license": "CC BY-SA 4.0",
+      "attribution": [
+        "Tofugu",
+        "WaniKani"
+      ],
+      "bytes": 13081,
+      "sha256": "2f7478004a434275818dbd8c1a192518215a8608391110f76afee857bfa89868"
+    },
+    {
+      "id": "b-v52",
+      "word": "失敗",
+      "reading": "しっぱい",
+      "sourcePage": "https://github.com/tofugu/japanese-vocabulary-pronunciation-audio/blob/9725e0e7d628ab616e8b14e126d3daa33eba8d36/lib/mp3/%E5%A4%B1%E6%95%97%E3%80%90%E3%81%97%E3%81%A3%E3%81%B1%E3%81%84%E3%80%91.mp3",
+      "license": "CC BY-SA 4.0",
+      "attribution": [
+        "Tofugu",
+        "WaniKani"
+      ],
+      "bytes": 32171,
+      "sha256": "cc0c4c0a607bf980aa4198039a4a90f6e6f105b653862204a7f7de9b1a7c1dd8"
+    },
+    {
+      "id": "b-v53",
+      "word": "成功",
+      "reading": "せいこう",
+      "sourcePage": "https://github.com/tofugu/japanese-vocabulary-pronunciation-audio/blob/9725e0e7d628ab616e8b14e126d3daa33eba8d36/lib/mp3/%E6%88%90%E5%8A%9F%E3%80%90%E3%81%9B%E3%81%84%E3%81%93%E3%81%86%E3%80%91.mp3",
+      "license": "CC BY-SA 4.0",
+      "attribution": [
+        "Tofugu",
+        "WaniKani"
+      ],
+      "bytes": 16007,
+      "sha256": "0d14b3e470f98a9b2ee4399973c7234dbed0d56a84cf633a7932417453b77a2c"
+    },
+    {
+      "id": "b-v55",
+      "word": "規則",
+      "reading": "きそく",
+      "sourcePage": "https://github.com/tofugu/japanese-vocabulary-pronunciation-audio/blob/9725e0e7d628ab616e8b14e126d3daa33eba8d36/lib/mp3/%E8%A6%8F%E5%89%87%E3%80%90%E3%81%8D%E3%81%9D%E3%81%8F%E3%80%91.mp3",
+      "license": "CC BY-SA 4.0",
+      "attribution": [
+        "Tofugu",
+        "WaniKani"
+      ],
+      "bytes": 26319,
+      "sha256": "3802f6eb293268609f1abe212a0c04f0da7591b6a1586c0d97cb49134063c479"
+    },
+    {
+      "id": "b-v56",
+      "word": "手続き",
+      "reading": "てつづき",
+      "sourcePage": "https://github.com/tofugu/japanese-vocabulary-pronunciation-audio/blob/9725e0e7d628ab616e8b14e126d3daa33eba8d36/lib/mp3/%E6%89%8B%E7%B6%9A%E3%81%8D%E3%80%90%E3%81%A6%E3%81%A4%E3%81%A5%E3%81%8D%E3%80%91.mp3",
+      "license": "CC BY-SA 4.0",
+      "attribution": [
+        "Tofugu",
+        "WaniKani"
+      ],
+      "bytes": 25483,
+      "sha256": "d39b59ea0181d7d33d1ed74f26a85b555b6e2424d82c66ab24f9be9c3a2f0631"
+    },
+    {
+      "id": "b-v57",
+      "word": "正しい",
+      "reading": "ただしい",
+      "sourcePage": "https://github.com/tofugu/japanese-vocabulary-pronunciation-audio/blob/9725e0e7d628ab616e8b14e126d3daa33eba8d36/lib/mp3/%E6%AD%A3%E3%81%97%E3%81%84%E3%80%90%E3%81%9F%E3%81%A0%E3%81%97%E3%81%84%E3%80%91.mp3",
+      "license": "CC BY-SA 4.0",
+      "attribution": [
+        "Tofugu",
+        "WaniKani"
+      ],
+      "bytes": 15608,
+      "sha256": "fd8d315fe7c9fc9fb03cdc421922af5e9cd932cc02e35c65c74f4c617c282d3d"
+    },
+    {
+      "id": "b-v58",
+      "word": "詳しい",
+      "reading": "くわしい",
+      "sourcePage": "https://github.com/tofugu/japanese-vocabulary-pronunciation-audio/blob/9725e0e7d628ab616e8b14e126d3daa33eba8d36/lib/mp3/%E8%A9%B3%E3%81%97%E3%81%84%E3%80%90%E3%81%8F%E3%82%8F%E3%81%97%E3%81%84%E3%80%91.mp3",
+      "license": "CC BY-SA 4.0",
+      "attribution": [
+        "Tofugu",
+        "WaniKani"
+      ],
+      "bytes": 28827,
+      "sha256": "2483f9e94e1a94b78bced71589cabe9a5d5895626b22132f07eba859485b9747"
+    },
+    {
+      "id": "b-v59",
+      "word": "厳しい",
+      "reading": "きびしい",
+      "sourcePage": "https://github.com/tofugu/japanese-vocabulary-pronunciation-audio/blob/9725e0e7d628ab616e8b14e126d3daa33eba8d36/lib/mp3/%E5%8E%B3%E3%81%97%E3%81%84%E3%80%90%E3%81%8D%E3%81%B3%E3%81%97%E3%81%84%E3%80%91.mp3",
+      "license": "CC BY-SA 4.0",
+      "attribution": [
+        "Tofugu",
+        "WaniKani"
+      ],
+      "bytes": 26319,
+      "sha256": "0d8c543db9a3bdbeaa15e7ffe18b4a648ed0335a042d85e4a1ce31410afcf264"
+    },
+    {
+      "id": "b-v60",
+      "word": "細かい",
+      "reading": "こまかい",
+      "sourcePage": "https://github.com/tofugu/japanese-vocabulary-pronunciation-audio/blob/9725e0e7d628ab616e8b14e126d3daa33eba8d36/lib/mp3/%E7%B4%B0%E3%81%8B%E3%81%84%E3%80%90%E3%81%93%E3%81%BE%E3%81%8B%E3%81%84%E3%80%91.mp3",
+      "license": "CC BY-SA 4.0",
+      "attribution": [
+        "Tofugu",
+        "WaniKani"
+      ],
+      "bytes": 30145,
+      "sha256": "e59b28d757b895f21df309f6129e7c0b09d1d0bd2490f06e2f25666969f1fbf7"
+    },
+    {
+      "id": "b-v61",
+      "word": "珍しい",
+      "reading": "めずらしい",
+      "sourcePage": "https://github.com/tofugu/japanese-vocabulary-pronunciation-audio/blob/9725e0e7d628ab616e8b14e126d3daa33eba8d36/lib/mp3/%E7%8F%8D%E3%81%97%E3%81%84%E3%80%90%E3%82%81%E3%81%9A%E3%82%89%E3%81%97%E3%81%84%E3%80%91.mp3",
+      "license": "CC BY-SA 4.0",
+      "attribution": [
+        "Tofugu",
+        "WaniKani"
+      ],
+      "bytes": 33842,
+      "sha256": "88a75165eb94e383c1652d18592afd5aeb87b615b935841f918dcff0b06b72b8"
+    },
+    {
+      "id": "b-v62",
+      "word": "苦しい",
+      "reading": "くるしい",
+      "sourcePage": "https://github.com/tofugu/japanese-vocabulary-pronunciation-audio/blob/9725e0e7d628ab616e8b14e126d3daa33eba8d36/lib/mp3/%E8%8B%A6%E3%81%97%E3%81%84%E3%80%90%E3%81%8F%E3%82%8B%E3%81%97%E3%81%84%E3%80%91.mp3",
+      "license": "CC BY-SA 4.0",
+      "attribution": [
+        "Tofugu",
+        "WaniKani"
+      ],
+      "bytes": 15171,
+      "sha256": "70942d291fea6084e52a03d24a03e04a8bcc20578cce650fb88e4b11d481f5ec"
+    },
+    {
+      "id": "b-v63",
+      "word": "恥ずかしい",
+      "reading": "はずかしい",
+      "sourcePage": "https://github.com/tofugu/japanese-vocabulary-pronunciation-audio/blob/9725e0e7d628ab616e8b14e126d3daa33eba8d36/lib/mp3/%E6%81%A5%E3%81%9A%E3%81%8B%E3%81%97%E3%81%84%E3%80%90%E3%81%AF%E3%81%9A%E3%81%8B%E3%81%97%E3%81%84%E3%80%91.mp3",
+      "license": "CC BY-SA 4.0",
+      "attribution": [
+        "Tofugu",
+        "WaniKani"
+      ],
+      "bytes": 33007,
+      "sha256": "b7043d44fbb75713bbe1b86a7c038054cd69a6c18a51325758de286c9668e861"
+    },
+    {
+      "id": "b-v64",
+      "word": "残念",
+      "reading": "ざんねん",
+      "sourcePage": "https://github.com/tofugu/japanese-vocabulary-pronunciation-audio/blob/9725e0e7d628ab616e8b14e126d3daa33eba8d36/lib/mp3/%E6%AE%8B%E5%BF%B5%E3%80%90%E3%81%96%E3%82%93%E3%81%AD%E3%82%93%E3%80%91.mp3",
+      "license": "CC BY-SA 4.0",
+      "attribution": [
+        "Tofugu",
+        "WaniKani"
+      ],
+      "bytes": 14686,
+      "sha256": "0ec8dbd2d4dc1a4d359467e94f15b6149a623caada88639638b79bef29e7c6cd"
+    },
+    {
+      "id": "b-v65",
+      "word": "複雑",
+      "reading": "ふくざつ",
+      "sourcePage": "https://github.com/tofugu/japanese-vocabulary-pronunciation-audio/blob/9725e0e7d628ab616e8b14e126d3daa33eba8d36/lib/mp3/%E8%A4%87%E9%9B%91%E3%80%90%E3%81%B5%E3%81%8F%E3%81%96%E3%81%A4%E3%80%91.mp3",
+      "license": "CC BY-SA 4.0",
+      "attribution": [
+        "Tofugu",
+        "WaniKani"
+      ],
+      "bytes": 23811,
+      "sha256": "5bde2c09e3e64d7ea29bf32e1bdd15e5db2e8e4c703d5e04db3e6654a79ffd6d"
+    },
+    {
+      "id": "b-v67",
+      "word": "無理",
+      "reading": "むり",
+      "sourcePage": "https://github.com/tofugu/japanese-vocabulary-pronunciation-audio/blob/9725e0e7d628ab616e8b14e126d3daa33eba8d36/lib/mp3/%E7%84%A1%E7%90%86%E3%80%90%E3%82%80%E3%82%8A%E3%80%91.mp3",
+      "license": "CC BY-SA 4.0",
+      "attribution": [
+        "Tofugu",
+        "WaniKani"
+      ],
+      "bytes": 14399,
+      "sha256": "4dee6ad70449b594af16e0a2dab9c2c1d62271138a5d0dc071ef963aab29fd89"
+    },
+    {
+      "id": "b-v68",
+      "word": "自由",
+      "reading": "じゆう",
+      "sourcePage": "https://github.com/tofugu/japanese-vocabulary-pronunciation-audio/blob/9725e0e7d628ab616e8b14e126d3daa33eba8d36/lib/mp3/%E8%87%AA%E7%94%B1%E3%80%90%E3%81%98%E3%82%86%E3%81%86%E3%80%91.mp3",
+      "license": "CC BY-SA 4.0",
+      "attribution": [
+        "Tofugu",
+        "WaniKani"
+      ],
+      "bytes": 13518,
+      "sha256": "b4f103c8d45fdd4b10dfc4dc37450bba21c9c9a3e52df30e474210d4f36a7ffb"
+    },
+    {
+      "id": "b-v80",
+      "word": "結局",
+      "reading": "けっきょく",
+      "sourcePage": "https://github.com/tofugu/japanese-vocabulary-pronunciation-audio/blob/9725e0e7d628ab616e8b14e126d3daa33eba8d36/lib/mp3/%E7%B5%90%E5%B1%80%E3%80%90%E3%81%91%E3%81%A3%E3%81%8D%E3%82%87%E3%81%8F%E3%80%91.mp3",
+      "license": "CC BY-SA 4.0",
+      "attribution": [
+        "Tofugu",
+        "WaniKani"
+      ],
+      "bytes": 27991,
+      "sha256": "191443ddc17221bb6a5dcbc4794a727239ed039fcbf00196459f10d007aee795"
+    },
+    {
+      "id": "n-v01",
+      "word": "改善",
+      "reading": "かいぜん",
+      "sourcePage": "https://github.com/tofugu/japanese-vocabulary-pronunciation-audio/blob/9725e0e7d628ab616e8b14e126d3daa33eba8d36/lib/mp3/%E6%94%B9%E5%96%84%E3%80%90%E3%81%8B%E3%81%84%E3%81%9C%E3%82%93%E3%80%91.mp3",
+      "license": "CC BY-SA 4.0",
+      "attribution": [
+        "Tofugu",
+        "WaniKani"
+      ],
+      "bytes": 30499,
+      "sha256": "2a05247318c105de9a4d1f96ad16fd4c3061b5e6c328820297ec1ea8390b35fd"
+    },
+    {
+      "id": "n-v02",
+      "word": "維持",
+      "reading": "いじ",
+      "sourcePage": "https://github.com/tofugu/japanese-vocabulary-pronunciation-audio/blob/9725e0e7d628ab616e8b14e126d3daa33eba8d36/lib/mp3/%E7%B6%AD%E6%8C%81%E3%80%90%E3%81%84%E3%81%98%E3%80%91.mp3",
+      "license": "CC BY-SA 4.0",
+      "attribution": [
+        "Tofugu",
+        "WaniKani"
+      ],
+      "bytes": 16288,
+      "sha256": "f3e2b15efc889b1a01f849523580113dd3dd534e2fd4f56527945b1808fcedcb"
+    },
+    {
+      "id": "n-v03",
+      "word": "傾向",
+      "reading": "けいこう",
+      "sourcePage": "https://github.com/tofugu/japanese-vocabulary-pronunciation-audio/blob/9725e0e7d628ab616e8b14e126d3daa33eba8d36/lib/mp3/%E5%82%BE%E5%90%91%E3%80%90%E3%81%91%E3%81%84%E3%81%93%E3%81%86%E3%80%91.mp3",
+      "license": "CC BY-SA 4.0",
+      "attribution": [
+        "Tofugu",
+        "WaniKani"
+      ],
+      "bytes": 27991,
+      "sha256": "a6f7f13ed33b6d7988220677c01082b2018bf887947d13844d459b7242185d08"
+    },
+    {
+      "id": "n-v04",
+      "word": "影響",
+      "reading": "えいきょう",
+      "sourcePage": "https://github.com/tofugu/japanese-vocabulary-pronunciation-audio/blob/9725e0e7d628ab616e8b14e126d3daa33eba8d36/lib/mp3/%E5%BD%B1%E9%9F%BF%E3%80%90%E3%81%88%E3%81%84%E3%81%8D%E3%82%87%E3%81%86%E3%80%91.mp3",
+      "license": "CC BY-SA 4.0",
+      "attribution": [
+        "Tofugu",
+        "WaniKani"
+      ],
+      "bytes": 25483,
+      "sha256": "659ca8daeb65e4bf4adc65ec4bc5dce056538cd3f26eba2656cf76fb1eaaa7b8"
+    },
+    {
+      "id": "n-v05",
+      "word": "対応",
+      "reading": "たいおう",
+      "sourcePage": "https://github.com/tofugu/japanese-vocabulary-pronunciation-audio/blob/9725e0e7d628ab616e8b14e126d3daa33eba8d36/lib/mp3/%E5%AF%BE%E5%BF%9C%E3%80%90%E3%81%9F%E3%81%84%E3%81%8A%E3%81%86%E3%80%91.mp3",
+      "license": "CC BY-SA 4.0",
+      "attribution": [
+        "Tofugu",
+        "WaniKani"
+      ],
+      "bytes": 33625,
+      "sha256": "8dd5a155534d08f37ca0d1ef740fa8c150cbd24dc0b1f1c11ba21ba5a7497c4d"
+    },
+    {
+      "id": "n-v06",
+      "word": "判断",
+      "reading": "はんだん",
+      "sourcePage": "https://github.com/tofugu/japanese-vocabulary-pronunciation-audio/blob/9725e0e7d628ab616e8b14e126d3daa33eba8d36/lib/mp3/%E5%88%A4%E6%96%AD%E3%80%90%E3%81%AF%E3%82%93%E3%81%A0%E3%82%93%E3%80%91.mp3",
+      "license": "CC BY-SA 4.0",
+      "attribution": [
+        "Tofugu",
+        "WaniKani"
+      ],
+      "bytes": 26319,
+      "sha256": "09a5d22df2a9f055ad0a323d69e9e33874ac8494f0bd68f3fa225fee411d9e43"
+    },
+    {
+      "id": "n-v07",
+      "word": "効率",
+      "reading": "こうりつ",
+      "sourcePage": "https://github.com/tofugu/japanese-vocabulary-pronunciation-audio/blob/9725e0e7d628ab616e8b14e126d3daa33eba8d36/lib/mp3/%E5%8A%B9%E7%8E%87%E3%80%90%E3%81%93%E3%81%86%E3%82%8A%E3%81%A4%E3%80%91.mp3",
+      "license": "CC BY-SA 4.0",
+      "attribution": [
+        "Tofugu",
+        "WaniKani"
+      ],
+      "bytes": 27155,
+      "sha256": "ba81e0e6b0935a128c48e17cefa2b4a1e85e85bd18ff96539cf43db1490a83f9"
+    },
+    {
+      "id": "n-v10",
+      "word": "取り組む",
+      "reading": "とりくむ",
+      "sourcePage": "https://github.com/kanjialive/kanji-data-media/blob/master/language-data/ka_data.csv",
+      "license": "CC BY 4.0",
+      "attribution": [
+        "Kanji alive"
+      ],
+      "bytes": 12131,
+      "sha256": "00df90bf5a95f77eb6cf396f740e8b51c6109f37e5dec351b3bdcaa1df95ff2b"
+    },
+    {
+      "id": "n-v11",
+      "word": "見直す",
+      "reading": "みなおす",
+      "sourcePage": "https://github.com/tofugu/japanese-vocabulary-pronunciation-audio/blob/9725e0e7d628ab616e8b14e126d3daa33eba8d36/lib/mp3/%E8%A6%8B%E7%9B%B4%E3%81%99%E3%80%90%E3%81%BF%E3%81%AA%E3%81%8A%E3%81%99%E3%80%91.mp3",
+      "license": "CC BY-SA 4.0",
+      "attribution": [
+        "Tofugu",
+        "WaniKani"
+      ],
+      "bytes": 18510,
+      "sha256": "713a295ddd68a5c6f1babc475e673e18805322bd8dd2e62885377688237c0977"
+    },
+    {
+      "id": "n-v13",
+      "word": "状況",
+      "reading": "じょうきょう",
+      "sourcePage": "https://github.com/tofugu/japanese-vocabulary-pronunciation-audio/blob/9725e0e7d628ab616e8b14e126d3daa33eba8d36/lib/mp3/%E7%8A%B6%E6%B3%81%E3%80%90%E3%81%98%E3%82%87%E3%81%86%E3%81%8D%E3%82%87%E3%81%86%E3%80%91.mp3",
+      "license": "CC BY-SA 4.0",
+      "attribution": [
+        "Tofugu",
+        "WaniKani"
+      ],
+      "bytes": 30499,
+      "sha256": "48d3415c8caf9bb02dc328f453c16d4e0068b4f665d18192e834c7a5b620683f"
+    },
+    {
+      "id": "n-v14",
+      "word": "状態",
+      "reading": "じょうたい",
+      "sourcePage": "https://github.com/tofugu/japanese-vocabulary-pronunciation-audio/blob/9725e0e7d628ab616e8b14e126d3daa33eba8d36/lib/mp3/%E7%8A%B6%E6%85%8B%E3%80%90%E3%81%98%E3%82%87%E3%81%86%E3%81%9F%E3%81%84%E3%80%91.mp3",
+      "license": "CC BY-SA 4.0",
+      "attribution": [
+        "Tofugu",
+        "WaniKani"
+      ],
+      "bytes": 26319,
+      "sha256": "4b3715283444ea4608b417e9c3c3d762600dfb0e13b5723698fbf1332b28e8bc"
+    },
+    {
+      "id": "n-v15",
+      "word": "事情",
+      "reading": "じじょう",
+      "sourcePage": "https://github.com/tofugu/japanese-vocabulary-pronunciation-audio/blob/9725e0e7d628ab616e8b14e126d3daa33eba8d36/lib/mp3/%E4%BA%8B%E6%83%85%E3%80%90%E3%81%98%E3%81%98%E3%82%87%E3%81%86%E3%80%91.mp3",
+      "license": "CC BY-SA 4.0",
+      "attribution": [
+        "Tofugu",
+        "WaniKani"
+      ],
+      "bytes": 11342,
+      "sha256": "b98572417b41bc9d4494e60d2a6177dbed4a0d66bd92872fbc7c4b0656fd8f9a"
+    },
+    {
+      "id": "n-v16",
+      "word": "条件",
+      "reading": "じょうけん",
+      "sourcePage": "https://github.com/tofugu/japanese-vocabulary-pronunciation-audio/blob/9725e0e7d628ab616e8b14e126d3daa33eba8d36/lib/mp3/%E6%9D%A1%E4%BB%B6%E3%80%90%E3%81%98%E3%82%87%E3%81%86%E3%81%91%E3%82%93%E3%80%91.mp3",
+      "license": "CC BY-SA 4.0",
+      "attribution": [
+        "Tofugu",
+        "WaniKani"
+      ],
+      "bytes": 27155,
+      "sha256": "873deaf8efd0f4567816215e306611291f749646fe3cdbfcc59504f3973caccb"
+    },
+    {
+      "id": "n-v17",
+      "word": "対象",
+      "reading": "たいしょう",
+      "sourcePage": "https://github.com/tofugu/japanese-vocabulary-pronunciation-audio/blob/9725e0e7d628ab616e8b14e126d3daa33eba8d36/lib/mp3/%E5%AF%BE%E8%B1%A1%E3%80%90%E3%81%9F%E3%81%84%E3%81%97%E3%82%87%E3%81%86%E3%80%91.mp3",
+      "license": "CC BY-SA 4.0",
+      "attribution": [
+        "Tofugu",
+        "WaniKani"
+      ],
+      "bytes": 23811,
+      "sha256": "3bef29eacd2b82740bb7075f6b42b7cbad8e2a0631dbf6fc91fb7417013a9978"
+    },
+    {
+      "id": "n-v18",
+      "word": "範囲",
+      "reading": "はんい",
+      "sourcePage": "https://github.com/tofugu/japanese-vocabulary-pronunciation-audio/blob/9725e0e7d628ab616e8b14e126d3daa33eba8d36/lib/mp3/%E7%AF%84%E5%9B%B2%E3%80%90%E3%81%AF%E3%82%93%E3%81%84%E3%80%91.mp3",
+      "license": "CC BY-SA 4.0",
+      "attribution": [
+        "Tofugu",
+        "WaniKani"
+      ],
+      "bytes": 27155,
+      "sha256": "215d509f585378567cbbc1994a87bbd34ba49af422f8bb9133c931a583d7d951"
+    },
+    {
+      "id": "n-v19",
+      "word": "程度",
+      "reading": "ていど",
+      "sourcePage": "https://github.com/tofugu/japanese-vocabulary-pronunciation-audio/blob/9725e0e7d628ab616e8b14e126d3daa33eba8d36/lib/mp3/%E7%A8%8B%E5%BA%A6%E3%80%90%E3%81%A6%E3%81%84%E3%81%A9%E3%80%91.mp3",
+      "license": "CC BY-SA 4.0",
+      "attribution": [
+        "Tofugu",
+        "WaniKani"
+      ],
+      "bytes": 22140,
+      "sha256": "1b8bd0420d3018df05ed67be6389796684b9b3919cfa5cb78eaf099bee51bdad"
+    },
+    {
+      "id": "n-v20",
+      "word": "割合",
+      "reading": "わりあい",
+      "sourcePage": "https://github.com/tofugu/japanese-vocabulary-pronunciation-audio/blob/9725e0e7d628ab616e8b14e126d3daa33eba8d36/lib/mp3/%E5%89%B2%E5%90%88%E3%80%90%E3%82%8F%E3%82%8A%E3%81%82%E3%81%84%E3%80%91.mp3",
+      "license": "CC BY-SA 4.0",
+      "attribution": [
+        "Tofugu",
+        "WaniKani"
+      ],
+      "bytes": 24647,
+      "sha256": "6a3f000a533aea3e72aab5bb77db62ee2eb497bfda94c6e10797ce9f87d45695"
+    },
+    {
+      "id": "n-v21",
+      "word": "基準",
+      "reading": "きじゅん",
+      "sourcePage": "https://github.com/tofugu/japanese-vocabulary-pronunciation-audio/blob/9725e0e7d628ab616e8b14e126d3daa33eba8d36/lib/mp3/%E5%9F%BA%E6%BA%96%E3%80%90%E3%81%8D%E3%81%98%E3%82%85%E3%82%93%E3%80%91.mp3",
+      "license": "CC BY-SA 4.0",
+      "attribution": [
+        "Tofugu",
+        "WaniKani"
+      ],
+      "bytes": 24647,
+      "sha256": "1bf441d3897627df824db6bce0e32bfe816bcd7ee00eb6d154c600efa061f8f9"
+    },
+    {
+      "id": "n-v22",
+      "word": "特徴",
+      "reading": "とくちょう",
+      "sourcePage": "https://github.com/tofugu/japanese-vocabulary-pronunciation-audio/blob/9725e0e7d628ab616e8b14e126d3daa33eba8d36/lib/mp3/%E7%89%B9%E5%BE%B4%E3%80%90%E3%81%A8%E3%81%8F%E3%81%A1%E3%82%87%E3%81%86%E3%80%91.mp3",
+      "license": "CC BY-SA 4.0",
+      "attribution": [
+        "Tofugu",
+        "WaniKani"
+      ],
+      "bytes": 29663,
+      "sha256": "ef591b38cbce1c0b9eb8834ec2ad8bed999a8bd96dbd5066a79f6b0c12eceecc"
+    },
+    {
+      "id": "n-v25",
+      "word": "比較",
+      "reading": "ひかく",
+      "sourcePage": "https://github.com/tofugu/japanese-vocabulary-pronunciation-audio/blob/9725e0e7d628ab616e8b14e126d3daa33eba8d36/lib/mp3/%E6%AF%94%E8%BC%83%E3%80%90%E3%81%B2%E3%81%8B%E3%81%8F%E3%80%91.mp3",
+      "license": "CC BY-SA 4.0",
+      "attribution": [
+        "Tofugu",
+        "WaniKani"
+      ],
+      "bytes": 31335,
+      "sha256": "8d84e1a71f282e3eebb9421235489fcae9c45838b83f5485e7195bccbf7d75aa"
+    },
+    {
+      "id": "n-v26",
+      "word": "分析",
+      "reading": "ぶんせき",
+      "sourcePage": "https://github.com/tofugu/japanese-vocabulary-pronunciation-audio/blob/9725e0e7d628ab616e8b14e126d3daa33eba8d36/lib/mp3/%E5%88%86%E6%9E%90%E3%80%90%E3%81%B6%E3%82%93%E3%81%9B%E3%81%8D%E3%80%91.mp3",
+      "license": "CC BY-SA 4.0",
+      "attribution": [
+        "Tofugu",
+        "WaniKani"
+      ],
+      "bytes": 30499,
+      "sha256": "e9181832e2edca3cac4302dacc816bc04e86d1027b83f4fb66f8ad422f6e0741"
+    },
+    {
+      "id": "n-v27",
+      "word": "評価",
+      "reading": "ひょうか",
+      "sourcePage": "https://github.com/tofugu/japanese-vocabulary-pronunciation-audio/blob/9725e0e7d628ab616e8b14e126d3daa33eba8d36/lib/mp3/%E8%A9%95%E4%BE%A1%E3%80%90%E3%81%B2%E3%82%87%E3%81%86%E3%81%8B%E3%80%91.mp3",
+      "license": "CC BY-SA 4.0",
+      "attribution": [
+        "Tofugu",
+        "WaniKani"
+      ],
+      "bytes": 25483,
+      "sha256": "c767f6cfd330ab78d9c2ddbb239f9db8e24cc37811372a2b0e62ad8faa412701"
+    },
+    {
+      "id": "n-v29",
+      "word": "提案",
+      "reading": "ていあん",
+      "sourcePage": "https://github.com/tofugu/japanese-vocabulary-pronunciation-audio/blob/9725e0e7d628ab616e8b14e126d3daa33eba8d36/lib/mp3/%E6%8F%90%E6%A1%88%E3%80%90%E3%81%A6%E3%81%84%E3%81%82%E3%82%93%E3%80%91.mp3",
+      "license": "CC BY-SA 4.0",
+      "attribution": [
+        "Tofugu",
+        "WaniKani"
+      ],
+      "bytes": 25483,
+      "sha256": "9753c59b275fd0cdb6b20bb7bfd8226a9b8a26529f0fecbfac90cb3e2fae29cf"
+    },
+    {
+      "id": "n-v30",
+      "word": "承認",
+      "reading": "しょうにん",
+      "sourcePage": "https://github.com/tofugu/japanese-vocabulary-pronunciation-audio/blob/9725e0e7d628ab616e8b14e126d3daa33eba8d36/lib/mp3/%E6%89%BF%E8%AA%8D%E3%80%90%E3%81%97%E3%82%87%E3%81%86%E3%81%AB%E3%82%93%E3%80%91.mp3",
+      "license": "CC BY-SA 4.0",
+      "attribution": [
+        "Tofugu",
+        "WaniKani"
+      ],
+      "bytes": 26319,
+      "sha256": "b4a06df4d7ac27cbd2f16caf90fded1d9d9f673d98a702915184ee7a082fda93"
+    },
+    {
+      "id": "n-v31",
+      "word": "許可",
+      "reading": "きょか",
+      "sourcePage": "https://github.com/tofugu/japanese-vocabulary-pronunciation-audio/blob/9725e0e7d628ab616e8b14e126d3daa33eba8d36/lib/mp3/%E8%A8%B1%E5%8F%AF%E3%80%90%E3%81%8D%E3%82%87%E3%81%8B%E3%80%91.mp3",
+      "license": "CC BY-SA 4.0",
+      "attribution": [
+        "Tofugu",
+        "WaniKani"
+      ],
+      "bytes": 21786,
+      "sha256": "6ea28374b1877c8f8cac341afd187ef60efa78ae3fc0c306a7effca712781765"
+    },
+    {
+      "id": "n-v32",
+      "word": "責任",
+      "reading": "せきにん",
+      "sourcePage": "https://github.com/tofugu/japanese-vocabulary-pronunciation-audio/blob/9725e0e7d628ab616e8b14e126d3daa33eba8d36/lib/mp3/%E8%B2%AC%E4%BB%BB%E3%80%90%E3%81%9B%E3%81%8D%E3%81%AB%E3%82%93%E3%80%91.mp3",
+      "license": "CC BY-SA 4.0",
+      "attribution": [
+        "Tofugu",
+        "WaniKani"
+      ],
+      "bytes": 27155,
+      "sha256": "9bc408681c7c1afcff97b87b475500f7f95150d57ccb07bcab501235c884d8e8"
+    },
+    {
+      "id": "n-v33",
+      "word": "役割",
+      "reading": "やくわり",
+      "sourcePage": "https://github.com/tofugu/japanese-vocabulary-pronunciation-audio/blob/9725e0e7d628ab616e8b14e126d3daa33eba8d36/lib/mp3/%E5%BD%B9%E5%89%B2%E3%80%90%E3%82%84%E3%81%8F%E3%82%8F%E3%82%8A%E3%80%91.mp3",
+      "license": "CC BY-SA 4.0",
+      "attribution": [
+        "Tofugu",
+        "WaniKani"
+      ],
+      "bytes": 30499,
+      "sha256": "3a1daf399e779c67d771dabf96fb6a6c983b13b00ed420555fe009fcb0611084"
+    },
+    {
+      "id": "n-v34",
+      "word": "担当",
+      "reading": "たんとう",
+      "sourcePage": "https://github.com/tofugu/japanese-vocabulary-pronunciation-audio/blob/9725e0e7d628ab616e8b14e126d3daa33eba8d36/lib/mp3/%E6%8B%85%E5%BD%93%E3%80%90%E3%81%9F%E3%82%93%E3%81%A8%E3%81%86%E3%80%91.mp3",
+      "license": "CC BY-SA 4.0",
+      "attribution": [
+        "Tofugu",
+        "WaniKani"
+      ],
+      "bytes": 25483,
+      "sha256": "618ff1e022c60945bcebb2ce44bdfc46175ae3ab054e6dbf96133262f78564c9"
+    },
+    {
+      "id": "n-v35",
+      "word": "負担",
+      "reading": "ふたん",
+      "sourcePage": "https://github.com/tofugu/japanese-vocabulary-pronunciation-audio/blob/9725e0e7d628ab616e8b14e126d3daa33eba8d36/lib/mp3/%E8%B2%A0%E6%8B%85%E3%80%90%E3%81%B5%E3%81%9F%E3%82%93%E3%80%91.mp3",
+      "license": "CC BY-SA 4.0",
+      "attribution": [
+        "Tofugu",
+        "WaniKani"
+      ],
+      "bytes": 22976,
+      "sha256": "3cceba858730f2164ff366377cd492aa73789f1fc9cf5b97bc7f5bc153dd9e3e"
+    },
+    {
+      "id": "n-v36",
+      "word": "利益",
+      "reading": "りえき",
+      "sourcePage": "https://github.com/tofugu/japanese-vocabulary-pronunciation-audio/blob/9725e0e7d628ab616e8b14e126d3daa33eba8d36/lib/mp3/%E5%88%A9%E7%9B%8A%E3%80%90%E3%82%8A%E3%81%88%E3%81%8D%E3%80%91.mp3",
+      "license": "CC BY-SA 4.0",
+      "attribution": [
+        "Tofugu",
+        "WaniKani"
+      ],
+      "bytes": 22976,
+      "sha256": "3067aac1794f07756cc1195d30b3b01f1954bf65f51dea9a802bbfcd75f3bc1c"
+    },
+    {
+      "id": "n-v38",
+      "word": "費用",
+      "reading": "ひよう",
+      "sourcePage": "https://github.com/tofugu/japanese-vocabulary-pronunciation-audio/blob/9725e0e7d628ab616e8b14e126d3daa33eba8d36/lib/mp3/%E8%B2%BB%E7%94%A8%E3%80%90%E3%81%B2%E3%82%88%E3%81%86%E3%80%91.mp3",
+      "license": "CC BY-SA 4.0",
+      "attribution": [
+        "Tofugu",
+        "WaniKani"
+      ],
+      "bytes": 22976,
+      "sha256": "71a574dd9bbf7ea11cba179b48e639e1692b32c7e5fbec935af5ce21c04b3c4f"
+    },
+    {
+      "id": "n-v41",
+      "word": "需要",
+      "reading": "じゅよう",
+      "sourcePage": "https://github.com/tofugu/japanese-vocabulary-pronunciation-audio/blob/9725e0e7d628ab616e8b14e126d3daa33eba8d36/lib/mp3/%E9%9C%80%E8%A6%81%E3%80%90%E3%81%98%E3%82%85%E3%82%88%E3%81%86%E3%80%91.mp3",
+      "license": "CC BY-SA 4.0",
+      "attribution": [
+        "Tofugu",
+        "WaniKani"
+      ],
+      "bytes": 21304,
+      "sha256": "4d7d2160b3546e946c85c0f7f6b91c7071d6dd47599ea12e1a75ac8a8c391d7a"
+    },
+    {
+      "id": "n-v42",
+      "word": "供給",
+      "reading": "きょうきゅう",
+      "sourcePage": "https://github.com/tofugu/japanese-vocabulary-pronunciation-audio/blob/9725e0e7d628ab616e8b14e126d3daa33eba8d36/lib/mp3/%E4%BE%9B%E7%B5%A6%E3%80%90%E3%81%8D%E3%82%87%E3%81%86%E3%81%8D%E3%82%85%E3%81%86%E3%80%91.mp3",
+      "license": "CC BY-SA 4.0",
+      "attribution": [
+        "Tofugu",
+        "WaniKani"
+      ],
+      "bytes": 26319,
+      "sha256": "84dd519065594e2382dce1b3b1da5cdfd0e18bfa060899faf8dba917ec394e42"
+    },
+    {
+      "id": "n-v43",
+      "word": "競争",
+      "reading": "きょうそう",
+      "sourcePage": "https://github.com/tofugu/japanese-vocabulary-pronunciation-audio/blob/9725e0e7d628ab616e8b14e126d3daa33eba8d36/lib/mp3/%E7%AB%B6%E4%BA%89%E3%80%90%E3%81%8D%E3%82%87%E3%81%86%E3%81%9D%E3%81%86%E3%80%91.mp3",
+      "license": "CC BY-SA 4.0",
+      "attribution": [
+        "Tofugu",
+        "WaniKani"
+      ],
+      "bytes": 16425,
+      "sha256": "236c0a0c892f603bf2d31776ece580789ca43f2bde555356d8b7f369b2cf34fa"
+    },
+    {
+      "id": "n-v44",
+      "word": "協力",
+      "reading": "きょうりょく",
+      "sourcePage": "https://github.com/tofugu/japanese-vocabulary-pronunciation-audio/blob/9725e0e7d628ab616e8b14e126d3daa33eba8d36/lib/mp3/%E5%8D%94%E5%8A%9B%E3%80%90%E3%81%8D%E3%82%87%E3%81%86%E3%82%8A%E3%82%87%E3%81%8F%E3%80%91.mp3",
+      "license": "CC BY-SA 4.0",
+      "attribution": [
+        "Tofugu",
+        "WaniKani"
+      ],
+      "bytes": 14268,
+      "sha256": "579f9ca1d6e1016436ba12d54ebf22f6170c1b93e2841a8f2298de1ea5a9e9cb"
+    },
+    {
+      "id": "n-v45",
+      "word": "優先",
+      "reading": "ゆうせん",
+      "sourcePage": "https://github.com/tofugu/japanese-vocabulary-pronunciation-audio/blob/9725e0e7d628ab616e8b14e126d3daa33eba8d36/lib/mp3/%E5%84%AA%E5%85%88%E3%80%90%E3%82%86%E3%81%86%E3%81%9B%E3%82%93%E3%80%91.mp3",
+      "license": "CC BY-SA 4.0",
+      "attribution": [
+        "Tofugu",
+        "WaniKani"
+      ],
+      "bytes": 25483,
+      "sha256": "77f74ef47b2df598e21729087d5ab7024518b6d63be7d39093dd5178a27c383e"
+    },
+    {
+      "id": "n-v46",
+      "word": "解決",
+      "reading": "かいけつ",
+      "sourcePage": "https://github.com/tofugu/japanese-vocabulary-pronunciation-audio/blob/9725e0e7d628ab616e8b14e126d3daa33eba8d36/lib/mp3/%E8%A7%A3%E6%B1%BA%E3%80%90%E3%81%8B%E3%81%84%E3%81%91%E3%81%A4%E3%80%91.mp3",
+      "license": "CC BY-SA 4.0",
+      "attribution": [
+        "Tofugu",
+        "WaniKani"
+      ],
+      "bytes": 26319,
+      "sha256": "119774002f47f2da3b95c28bf2bc88477ccb043110b90c825c96f89261c6f614"
+    },
+    {
+      "id": "n-v49",
+      "word": "変化",
+      "reading": "へんか",
+      "sourcePage": "https://github.com/tofugu/japanese-vocabulary-pronunciation-audio/blob/9725e0e7d628ab616e8b14e126d3daa33eba8d36/lib/mp3/%E5%A4%89%E5%8C%96%E3%80%90%E3%81%B8%E3%82%93%E3%81%8B%E3%80%91.mp3",
+      "license": "CC BY-SA 4.0",
+      "attribution": [
+        "Tofugu",
+        "WaniKani"
+      ],
+      "bytes": 11342,
+      "sha256": "0c76cd8b0d139fc3632172515338012b32c7018aa6f1643e707bd58b655be566"
+    },
+    {
+      "id": "n-v50",
+      "word": "効果",
+      "reading": "こうか",
+      "sourcePage": "https://github.com/tofugu/japanese-vocabulary-pronunciation-audio/blob/9725e0e7d628ab616e8b14e126d3daa33eba8d36/lib/mp3/%E5%8A%B9%E6%9E%9C%E3%80%90%E3%81%93%E3%81%86%E3%81%8B%E3%80%91.mp3",
+      "license": "CC BY-SA 4.0",
+      "attribution": [
+        "Tofugu",
+        "WaniKani"
+      ],
+      "bytes": 23811,
+      "sha256": "b65ba686a2fe00c44b96f7596010e81d73134911b3f25eaa350f88a81684c316"
+    },
+    {
+      "id": "n-v52",
+      "word": "過程",
+      "reading": "かてい",
+      "sourcePage": "https://github.com/tofugu/japanese-vocabulary-pronunciation-audio/blob/9725e0e7d628ab616e8b14e126d3daa33eba8d36/lib/mp3/%E9%81%8E%E7%A8%8B%E3%80%90%E3%81%8B%E3%81%A6%E3%81%84%E3%80%91.mp3",
+      "license": "CC BY-SA 4.0",
+      "attribution": [
+        "Tofugu",
+        "WaniKani"
+      ],
+      "bytes": 22976,
+      "sha256": "4f8e04001e6e61085dee55adb61de9a8df2369a60831ec42de4108dbc2e022da"
+    },
+    {
+      "id": "n-v54",
+      "word": "制度",
+      "reading": "せいど",
+      "sourcePage": "https://github.com/tofugu/japanese-vocabulary-pronunciation-audio/blob/9725e0e7d628ab616e8b14e126d3daa33eba8d36/lib/mp3/%E5%88%B6%E5%BA%A6%E3%80%90%E3%81%9B%E3%81%84%E3%81%A9%E3%80%91.mp3",
+      "license": "CC BY-SA 4.0",
+      "attribution": [
+        "Tofugu",
+        "WaniKani"
+      ],
+      "bytes": 22976,
+      "sha256": "3e0d562dec136327f19c127bf350a6beb4dcf4c325ffe254ee02d539b49433ef"
+    },
+    {
+      "id": "n-v55",
+      "word": "組織",
+      "reading": "そしき",
+      "sourcePage": "https://github.com/tofugu/japanese-vocabulary-pronunciation-audio/blob/9725e0e7d628ab616e8b14e126d3daa33eba8d36/lib/mp3/%E7%B5%84%E7%B9%94%E3%80%90%E3%81%9D%E3%81%97%E3%81%8D%E3%80%91.mp3",
+      "license": "CC BY-SA 4.0",
+      "attribution": [
+        "Tofugu",
+        "WaniKani"
+      ],
+      "bytes": 29663,
+      "sha256": "5b9490b605fc05fcb5361638d7656c42656c61b421719e173e1d7acb869f8285"
+    },
+    {
+      "id": "n-v60",
+      "word": "管理",
+      "reading": "かんり",
+      "sourcePage": "https://github.com/tofugu/japanese-vocabulary-pronunciation-audio/blob/9725e0e7d628ab616e8b14e126d3daa33eba8d36/lib/mp3/%E7%AE%A1%E7%90%86%E3%80%90%E3%81%8B%E3%82%93%E3%82%8A%E3%80%91.mp3",
+      "license": "CC BY-SA 4.0",
+      "attribution": [
+        "Tofugu",
+        "WaniKani"
+      ],
+      "bytes": 23811,
+      "sha256": "511e5d45c726a8433e2b10b4c6c3b84a07ac6e3be6b32f7adc79c888dd04aa39"
+    },
+    {
+      "id": "n-v61",
+      "word": "契約",
+      "reading": "けいやく",
+      "sourcePage": "https://github.com/tofugu/japanese-vocabulary-pronunciation-audio/blob/9725e0e7d628ab616e8b14e126d3daa33eba8d36/lib/mp3/%E5%A5%91%E7%B4%84%E3%80%90%E3%81%91%E3%81%84%E3%82%84%E3%81%8F%E3%80%91.mp3",
+      "license": "CC BY-SA 4.0",
+      "attribution": [
+        "Tofugu",
+        "WaniKani"
+      ],
+      "bytes": 22976,
+      "sha256": "63f86afa51f23c1ab2675f9181eec00e880c4ccd914893d2189b31aa1576d431"
+    },
+    {
+      "id": "n-v62",
+      "word": "雇用",
+      "reading": "こよう",
+      "sourcePage": "https://github.com/tofugu/japanese-vocabulary-pronunciation-audio/blob/9725e0e7d628ab616e8b14e126d3daa33eba8d36/lib/mp3/%E9%9B%87%E7%94%A8%E3%80%90%E3%81%93%E3%82%88%E3%81%86%E3%80%91.mp3",
+      "license": "CC BY-SA 4.0",
+      "attribution": [
+        "Tofugu",
+        "WaniKani"
+      ],
+      "bytes": 19632,
+      "sha256": "46ab13d84e363cb8b90da38161b60f67b08b684d247bad145dd2365cc301f2d8"
+    },
+    {
+      "id": "n-v63",
+      "word": "労働",
+      "reading": "ろうどう",
+      "sourcePage": "https://github.com/tofugu/japanese-vocabulary-pronunciation-audio/blob/9725e0e7d628ab616e8b14e126d3daa33eba8d36/lib/mp3/%E5%8A%B4%E5%83%8D%E3%80%90%E3%82%8D%E3%81%86%E3%81%A9%E3%81%86%E3%80%91.mp3",
+      "license": "CC BY-SA 4.0",
+      "attribution": [
+        "Tofugu",
+        "WaniKani"
+      ],
+      "bytes": 15171,
+      "sha256": "4aeb544552024b880adfec4fd1caa8a670ddf6c6e680a8a7068949fd62f45b48"
+    },
+    {
+      "id": "n-v65",
+      "word": "技術",
+      "reading": "ぎじゅつ",
+      "sourcePage": "https://github.com/tofugu/japanese-vocabulary-pronunciation-audio/blob/9725e0e7d628ab616e8b14e126d3daa33eba8d36/lib/mp3/%E6%8A%80%E8%A1%93%E3%80%90%E3%81%8E%E3%81%98%E3%82%85%E3%81%A4%E3%80%91.mp3",
+      "license": "CC BY-SA 4.0",
+      "attribution": [
+        "Tofugu",
+        "WaniKani"
+      ],
+      "bytes": 24647,
+      "sha256": "906243493a3849303b19edd391768c0cd738c8ac9c19d4ca6f1ac6222d1d01ed"
+    },
+    {
+      "id": "n-v66",
+      "word": "専門",
+      "reading": "せんもん",
+      "sourcePage": "https://github.com/tofugu/japanese-vocabulary-pronunciation-audio/blob/9725e0e7d628ab616e8b14e126d3daa33eba8d36/lib/mp3/%E5%B0%82%E9%96%80%E3%80%90%E3%81%9B%E3%82%93%E3%82%82%E3%82%93%E3%80%91.mp3",
+      "license": "CC BY-SA 4.0",
+      "attribution": [
+        "Tofugu",
+        "WaniKani"
+      ],
+      "bytes": 30499,
+      "sha256": "bf483d8e507508e9cc45a0ddeb890aaec97754b275ddeeb2ce646a79c424d7a6"
+    },
+    {
+      "id": "n-v67",
+      "word": "資格",
+      "reading": "しかく",
+      "sourcePage": "https://github.com/tofugu/japanese-vocabulary-pronunciation-audio/blob/9725e0e7d628ab616e8b14e126d3daa33eba8d36/lib/mp3/%E8%B3%87%E6%A0%BC%E3%80%90%E3%81%97%E3%81%8B%E3%81%8F%E3%80%91.mp3",
+      "license": "CC BY-SA 4.0",
+      "attribution": [
+        "Tofugu",
+        "WaniKani"
+      ],
+      "bytes": 33625,
+      "sha256": "ab6a5f1a5a0998afa1bd6d03db74e76d3cd2d5d83469eb6276537c0645ec1678"
+    },
+    {
+      "id": "n-v68",
+      "word": "能力",
+      "reading": "のうりょく",
+      "sourcePage": "https://github.com/tofugu/japanese-vocabulary-pronunciation-audio/blob/9725e0e7d628ab616e8b14e126d3daa33eba8d36/lib/mp3/%E8%83%BD%E5%8A%9B%E3%80%90%E3%81%AE%E3%81%86%E3%82%8A%E3%82%87%E3%81%8F%E3%80%91.mp3",
+      "license": "CC BY-SA 4.0",
+      "attribution": [
+        "Tofugu",
+        "WaniKani"
+      ],
+      "bytes": 13432,
+      "sha256": "98d3bb03f2dca78a874e94c695fb72fc314e3269253543aef13e44f4fd6d2539"
+    },
+    {
+      "id": "n-v69",
+      "word": "知識",
+      "reading": "ちしき",
+      "sourcePage": "https://github.com/tofugu/japanese-vocabulary-pronunciation-audio/blob/9725e0e7d628ab616e8b14e126d3daa33eba8d36/lib/mp3/%E7%9F%A5%E8%AD%98%E3%80%90%E3%81%A1%E3%81%97%E3%81%8D%E3%80%91.mp3",
+      "license": "CC BY-SA 4.0",
+      "attribution": [
+        "Tofugu",
+        "WaniKani"
+      ],
+      "bytes": 25483,
+      "sha256": "e82863677d8a1ab9fe710d9d77a84e3738c768a7bdb10dfcf255d0f42c888f90"
+    },
+    {
+      "id": "n-v70",
+      "word": "情報",
+      "reading": "じょうほう",
+      "sourcePage": "https://github.com/tofugu/japanese-vocabulary-pronunciation-audio/blob/9725e0e7d628ab616e8b14e126d3daa33eba8d36/lib/mp3/%E6%83%85%E5%A0%B1%E3%80%90%E3%81%98%E3%82%87%E3%81%86%E3%81%BB%E3%81%86%E3%80%91.mp3",
+      "license": "CC BY-SA 4.0",
+      "attribution": [
+        "Tofugu",
+        "WaniKani"
+      ],
+      "bytes": 30145,
+      "sha256": "6f96ffe30f5606c78fd741d209bc588a5ddfd2c32b10097a3d1940e6461cc021"
+    },
+    {
+      "id": "n-v71",
+      "word": "資料",
+      "reading": "しりょう",
+      "sourcePage": "https://github.com/tofugu/japanese-vocabulary-pronunciation-audio/blob/9725e0e7d628ab616e8b14e126d3daa33eba8d36/lib/mp3/%E8%B3%87%E6%96%99%E3%80%90%E3%81%97%E3%82%8A%E3%82%87%E3%81%86%E3%80%91.mp3",
+      "license": "CC BY-SA 4.0",
+      "attribution": [
+        "Tofugu",
+        "WaniKani"
+      ],
+      "bytes": 23811,
+      "sha256": "0e61527318192c86a85494518a5a7ea582686a8fd476657abec9e08abbe39a6b"
+    },
+    {
+      "id": "n-v72",
+      "word": "証拠",
+      "reading": "しょうこ",
+      "sourcePage": "https://github.com/tofugu/japanese-vocabulary-pronunciation-audio/blob/9725e0e7d628ab616e8b14e126d3daa33eba8d36/lib/mp3/%E8%A8%BC%E6%8B%A0%E3%80%90%E3%81%97%E3%82%87%E3%81%86%E3%81%93%E3%80%91.mp3",
+      "license": "CC BY-SA 4.0",
+      "attribution": [
+        "Tofugu",
+        "WaniKani"
+      ],
+      "bytes": 27155,
+      "sha256": "acdab2e0962c14f150f4f1db07b40f5e1433ac526e1b0ce8fa5efee59564da4d"
+    },
+    {
+      "id": "n-v73",
+      "word": "事実",
+      "reading": "じじつ",
+      "sourcePage": "https://github.com/tofugu/japanese-vocabulary-pronunciation-audio/blob/9725e0e7d628ab616e8b14e126d3daa33eba8d36/lib/mp3/%E4%BA%8B%E5%AE%9F%E3%80%90%E3%81%98%E3%81%98%E3%81%A4%E3%80%91.mp3",
+      "license": "CC BY-SA 4.0",
+      "attribution": [
+        "Tofugu",
+        "WaniKani"
+      ],
+      "bytes": 14753,
+      "sha256": "2783b4e16a218845bec0549f346208f6ba465555538d674d3de2f954c9b35f75"
+    },
+    {
+      "id": "n-v74",
+      "word": "現実",
+      "reading": "げんじつ",
+      "sourcePage": "https://github.com/tofugu/japanese-vocabulary-pronunciation-audio/blob/9725e0e7d628ab616e8b14e126d3daa33eba8d36/lib/mp3/%E7%8F%BE%E5%AE%9F%E3%80%90%E3%81%92%E3%82%93%E3%81%98%E3%81%A4%E3%80%91.mp3",
+      "license": "CC BY-SA 4.0",
+      "attribution": [
+        "Tofugu",
+        "WaniKani"
+      ],
+      "bytes": 26319,
+      "sha256": "f649070fcfe9c4e10c6ca32519baf1df7ec915d64b1fc263feabeb87a32eb2ec"
+    },
+    {
+      "id": "n-v76",
+      "word": "問題",
+      "reading": "もんだい",
+      "sourcePage": "https://github.com/tofugu/japanese-vocabulary-pronunciation-audio/blob/9725e0e7d628ab616e8b14e126d3daa33eba8d36/lib/mp3/%E5%95%8F%E9%A1%8C%E3%80%90%E3%82%82%E3%82%93%E3%81%A0%E3%81%84%E3%80%91.mp3",
+      "license": "CC BY-SA 4.0",
+      "attribution": [
+        "Tofugu",
+        "WaniKani"
+      ],
+      "bytes": 15940,
+      "sha256": "57fcbe9e4a9cb788c3968adaa112f1088a186797cdeab4494f19f66b7fe051ed"
+    },
+    {
+      "id": "n-v77",
+      "word": "防ぐ",
+      "reading": "ふせぐ",
+      "sourcePage": "https://github.com/tofugu/japanese-vocabulary-pronunciation-audio/blob/9725e0e7d628ab616e8b14e126d3daa33eba8d36/lib/mp3/%E9%98%B2%E3%81%90%E3%80%90%E3%81%B5%E3%81%9B%E3%81%90%E3%80%91.mp3",
+      "license": "CC BY-SA 4.0",
+      "attribution": [
+        "Tofugu",
+        "WaniKani"
+      ],
+      "bytes": 35514,
+      "sha256": "2a8505c57fac16aa6420d0482dda81c4e99aa4328539e0d63048c841644d8162"
+    },
+    {
+      "id": "n-v78",
+      "word": "避ける",
+      "reading": "さける",
+      "sourcePage": "https://github.com/tofugu/japanese-vocabulary-pronunciation-audio/blob/9725e0e7d628ab616e8b14e126d3daa33eba8d36/lib/mp3/%E9%81%BF%E3%81%91%E3%82%8B%E3%80%90%E3%81%95%E3%81%91%E3%82%8B%E3%80%91.mp3",
+      "license": "CC BY-SA 4.0",
+      "attribution": [
+        "Tofugu",
+        "WaniKani"
+      ],
+      "bytes": 22976,
+      "sha256": "6df2d42c19382d3678ca98b35c8875dd92d46a7ad64b8b9f70c9e2ff0b02d07f"
+    },
+    {
+      "id": "n-v79",
+      "word": "支える",
+      "reading": "ささえる",
+      "sourcePage": "https://github.com/tofugu/japanese-vocabulary-pronunciation-audio/blob/9725e0e7d628ab616e8b14e126d3daa33eba8d36/lib/mp3/%E6%94%AF%E3%81%88%E3%82%8B%E3%80%90%E3%81%95%E3%81%95%E3%81%88%E3%82%8B%E3%80%91.mp3",
+      "license": "CC BY-SA 4.0",
+      "attribution": [
+        "Tofugu",
+        "WaniKani"
+      ],
+      "bytes": 18568,
+      "sha256": "8bbf9d5f8b77866f000c6bab6be388573ec28217133d58c6d2f27083eb654d27"
+    },
+    {
+      "id": "n-v81",
+      "word": "補う",
+      "reading": "おぎなう",
+      "sourcePage": "https://github.com/tofugu/japanese-vocabulary-pronunciation-audio/blob/9725e0e7d628ab616e8b14e126d3daa33eba8d36/lib/mp3/%E8%A3%9C%E3%81%86%E3%80%90%E3%81%8A%E3%81%8E%E3%81%AA%E3%81%86%E3%80%91.mp3",
+      "license": "CC BY-SA 4.0",
+      "attribution": [
+        "Tofugu",
+        "WaniKani"
+      ],
+      "bytes": 26319,
+      "sha256": "05cab4519dc56e8558b3175c7226a318026bd4059d8fd787085d41a077b4d69a"
+    },
+    {
+      "id": "n-v82",
+      "word": "備える",
+      "reading": "そなえる",
+      "sourcePage": "https://github.com/tofugu/japanese-vocabulary-pronunciation-audio/blob/9725e0e7d628ab616e8b14e126d3daa33eba8d36/lib/mp3/%E5%82%99%E3%81%88%E3%82%8B%E3%80%90%E3%81%9D%E3%81%AA%E3%81%88%E3%82%8B%E3%80%91.mp3",
+      "license": "CC BY-SA 4.0",
+      "attribution": [
+        "Tofugu",
+        "WaniKani"
+      ],
+      "bytes": 32171,
+      "sha256": "9928d5b4c89b8227bf695cab5a76e0bb43c9783196166ac25215ad49d679da74"
+    },
+    {
+      "id": "n-v83",
+      "word": "扱う",
+      "reading": "あつかう",
+      "sourcePage": "https://github.com/tofugu/japanese-vocabulary-pronunciation-audio/blob/9725e0e7d628ab616e8b14e126d3daa33eba8d36/lib/mp3/%E6%89%B1%E3%81%86%E3%80%90%E3%81%82%E3%81%A4%E3%81%8B%E3%81%86%E3%80%91.mp3",
+      "license": "CC BY-SA 4.0",
+      "attribution": [
+        "Tofugu",
+        "WaniKani"
+      ],
+      "bytes": 22140,
+      "sha256": "f03904508d22b1b4b5e5d5c99ec9b182b4cbb5637524bb24730175a3a2d58b78"
+    },
+    {
+      "id": "n-v84",
+      "word": "認める",
+      "reading": "みとめる",
+      "sourcePage": "https://github.com/tofugu/japanese-vocabulary-pronunciation-audio/blob/9725e0e7d628ab616e8b14e126d3daa33eba8d36/lib/mp3/%E8%AA%8D%E3%82%81%E3%82%8B%E3%80%90%E3%81%BF%E3%81%A8%E3%82%81%E3%82%8B%E3%80%91.mp3",
+      "license": "CC BY-SA 4.0",
+      "attribution": [
+        "Tofugu",
+        "WaniKani"
+      ],
+      "bytes": 27991,
+      "sha256": "6ef3445c6eb1efc884e1da322b3475c51911fa6166e7e5c9968891928813c17b"
+    },
+    {
+      "id": "n-v85",
+      "word": "求める",
+      "reading": "もとめる",
+      "sourcePage": "https://github.com/tofugu/japanese-vocabulary-pronunciation-audio/blob/9725e0e7d628ab616e8b14e126d3daa33eba8d36/lib/mp3/%E6%B1%82%E3%82%81%E3%82%8B%E3%80%90%E3%82%82%E3%81%A8%E3%82%81%E3%82%8B%E3%80%91.mp3",
+      "license": "CC BY-SA 4.0",
+      "attribution": [
+        "Tofugu",
+        "WaniKani"
+      ],
+      "bytes": 13432,
+      "sha256": "e3861d894ef6236cc2067b98ae19c542f372f69a04f8ef4f462f0ae6e3e66ebd"
+    },
+    {
+      "id": "n-v86",
+      "word": "得る",
+      "reading": "える",
+      "sourcePage": "https://github.com/tofugu/japanese-vocabulary-pronunciation-audio/blob/9725e0e7d628ab616e8b14e126d3daa33eba8d36/lib/mp3/%E5%BE%97%E3%82%8B%E3%80%90%E3%81%88%E3%82%8B%E3%80%91.mp3",
+      "license": "CC BY-SA 4.0",
+      "attribution": [
+        "Tofugu",
+        "WaniKani"
+      ],
+      "bytes": 24647,
+      "sha256": "60d03690834c113d8a66a6ef32b2209ee9ac86a1f5cf063a59a5042684d56522"
+    },
+    {
+      "id": "n-v87",
+      "word": "失う",
+      "reading": "うしなう",
+      "sourcePage": "https://github.com/tofugu/japanese-vocabulary-pronunciation-audio/blob/9725e0e7d628ab616e8b14e126d3daa33eba8d36/lib/mp3/%E5%A4%B1%E3%81%86%E3%80%90%E3%81%86%E3%81%97%E3%81%AA%E3%81%86%E3%80%91.mp3",
+      "license": "CC BY-SA 4.0",
+      "attribution": [
+        "Tofugu",
+        "WaniKani"
+      ],
+      "bytes": 16002,
+      "sha256": "1fd2bccea63a666117ae6c4aeb17fa3937cb471340d89116d0f5b7f1ecddb3ab"
+    },
+    {
+      "id": "n-v89",
+      "word": "含む",
+      "reading": "ふくむ",
+      "sourcePage": "https://github.com/tofugu/japanese-vocabulary-pronunciation-audio/blob/9725e0e7d628ab616e8b14e126d3daa33eba8d36/lib/mp3/%E5%90%AB%E3%82%80%E3%80%90%E3%81%B5%E3%81%8F%E3%82%80%E3%80%91.mp3",
+      "license": "CC BY-SA 4.0",
+      "attribution": [
+        "Tofugu",
+        "WaniKani"
+      ],
+      "bytes": 24647,
+      "sha256": "53c9650a188369a32b226f181c6553b5c048df971cdbddc3844cb507b6b68b24"
+    },
+    {
+      "id": "n-v91",
+      "word": "限る",
+      "reading": "かぎる",
+      "sourcePage": "https://github.com/tofugu/japanese-vocabulary-pronunciation-audio/blob/9725e0e7d628ab616e8b14e126d3daa33eba8d36/lib/mp3/%E9%99%90%E3%82%8B%E3%80%90%E3%81%8B%E3%81%8E%E3%82%8B%E3%80%91.mp3",
+      "license": "CC BY-SA 4.0",
+      "attribution": [
+        "Tofugu",
+        "WaniKani"
+      ],
+      "bytes": 23811,
+      "sha256": "21f0c370b54b39c9ee07d15164f1a92a1e4f20428a4dcb08702866e4265b9b61"
+    },
+    {
+      "id": "n-v93",
+      "word": "伴う",
+      "reading": "ともなう",
+      "sourcePage": "https://github.com/tofugu/japanese-vocabulary-pronunciation-audio/blob/9725e0e7d628ab616e8b14e126d3daa33eba8d36/lib/mp3/%E4%BC%B4%E3%81%86%E3%80%90%E3%81%A8%E3%82%82%E3%81%AA%E3%81%86%E3%80%91.mp3",
+      "license": "CC BY-SA 4.0",
+      "attribution": [
+        "Tofugu",
+        "WaniKani"
+      ],
+      "bytes": 27991,
+      "sha256": "6c9fd0d5b8a6b8b426e9dcf586b840af3366fad22d4beb02617e31334d6d7958"
+    },
+    {
+      "id": "n-v94",
+      "word": "従う",
+      "reading": "したがう",
+      "sourcePage": "https://github.com/tofugu/japanese-vocabulary-pronunciation-audio/blob/9725e0e7d628ab616e8b14e126d3daa33eba8d36/lib/mp3/%E5%BE%93%E3%81%86%E3%80%90%E3%81%97%E3%81%9F%E3%81%8C%E3%81%86%E3%80%91.mp3",
+      "license": "CC BY-SA 4.0",
+      "attribution": [
+        "Tofugu",
+        "WaniKani"
+      ],
+      "bytes": 27991,
+      "sha256": "ab4f46ca612702f6032e955cdf1753dcefa3696697b1f6cc648013e5ea56f917"
+    },
+    {
+      "id": "n-v96",
+      "word": "越える",
+      "reading": "こえる",
+      "sourcePage": "https://github.com/tofugu/japanese-vocabulary-pronunciation-audio/blob/9725e0e7d628ab616e8b14e126d3daa33eba8d36/lib/mp3/%E8%B6%8A%E3%81%88%E3%82%8B%E3%80%90%E3%81%93%E3%81%88%E3%82%8B%E3%80%91.mp3",
+      "license": "CC BY-SA 4.0",
+      "attribution": [
+        "Tofugu",
+        "WaniKani"
+      ],
+      "bytes": 24647,
+      "sha256": "d6bf99dd4d0e9590cd413e6a363fbbdad4450e12dc5e5db50e2796894d80f85a"
+    },
+    {
+      "id": "n-v97",
+      "word": "述べる",
+      "reading": "のべる",
+      "sourcePage": "https://github.com/tofugu/japanese-vocabulary-pronunciation-audio/blob/9725e0e7d628ab616e8b14e126d3daa33eba8d36/lib/mp3/%E8%BF%B0%E3%81%B9%E3%82%8B%E3%80%90%E3%81%AE%E3%81%B9%E3%82%8B%E3%80%91.mp3",
+      "license": "CC BY-SA 4.0",
+      "attribution": [
+        "Tofugu",
+        "WaniKani"
+      ],
+      "bytes": 25483,
+      "sha256": "caf20eb3a095dafa886ab8177aecacf24f5b3e53a987adc59675558fcb32d713"
+    },
+    {
+      "id": "n-v98",
+      "word": "示す",
+      "reading": "しめす",
+      "sourcePage": "https://github.com/tofugu/japanese-vocabulary-pronunciation-audio/blob/9725e0e7d628ab616e8b14e126d3daa33eba8d36/lib/mp3/%E7%A4%BA%E3%81%99%E3%80%90%E3%81%97%E3%82%81%E3%81%99%E3%80%91.mp3",
+      "license": "CC BY-SA 4.0",
+      "attribution": [
+        "Tofugu",
+        "WaniKani"
+      ],
+      "bytes": 30499,
+      "sha256": "6e891d59a4ebd8815fcf712de319e7af1c984a8e8023888073e02e58d956b933"
+    },
+    {
+      "id": "n-v99",
+      "word": "指す",
+      "reading": "さす",
+      "sourcePage": "https://github.com/tofugu/japanese-vocabulary-pronunciation-audio/blob/9725e0e7d628ab616e8b14e126d3daa33eba8d36/lib/mp3/%E6%8C%87%E3%81%99%E3%80%90%E3%81%95%E3%81%99%E3%80%91.mp3",
+      "license": "CC BY-SA 4.0",
+      "attribution": [
+        "Tofugu",
+        "WaniKani"
+      ],
+      "bytes": 13081,
+      "sha256": "c18cae15a5b9262c4f156dc177c089f8466015b68af298f30a331d472dac12be"
+    },
+    {
+      "id": "n-v100",
+      "word": "指摘する",
+      "reading": "してきする",
+      "sourcePage": "https://github.com/tofugu/japanese-vocabulary-pronunciation-audio/blob/9725e0e7d628ab616e8b14e126d3daa33eba8d36/lib/mp3/%E6%8C%87%E6%91%98%E3%81%99%E3%82%8B%E3%80%90%E3%81%97%E3%81%A6%E3%81%8D%E3%81%99%E3%82%8B%E3%80%91.mp3",
+      "license": "CC BY-SA 4.0",
+      "attribution": [
+        "Tofugu",
+        "WaniKani"
+      ],
+      "bytes": 29663,
+      "sha256": "b851f51bf35ad1832986ac03e662f600d45b201b5d49f4e006a7d545fe48ef0a"
+    },
+    {
+      "id": "n-v101",
+      "word": "応じる",
+      "reading": "おうじる",
+      "sourcePage": "https://github.com/tofugu/japanese-vocabulary-pronunciation-audio/blob/9725e0e7d628ab616e8b14e126d3daa33eba8d36/lib/mp3/%E5%BF%9C%E3%81%98%E3%82%8B%E3%80%90%E3%81%8A%E3%81%86%E3%81%98%E3%82%8B%E3%80%91.mp3",
+      "license": "CC BY-SA 4.0",
+      "attribution": [
+        "Tofugu",
+        "WaniKani"
+      ],
+      "bytes": 29663,
+      "sha256": "129f29c1a132bad7c36e7136942478bc48c74925baf764582578c8c6218c1fa5"
+    },
+    {
+      "id": "n-v102",
+      "word": "及ぼす",
+      "reading": "およぼす",
+      "sourcePage": "https://github.com/tofugu/japanese-vocabulary-pronunciation-audio/blob/9725e0e7d628ab616e8b14e126d3daa33eba8d36/lib/mp3/%E5%8F%8A%E3%81%BC%E3%81%99%E3%80%90%E3%81%8A%E3%82%88%E3%81%BC%E3%81%99%E3%80%91.mp3",
+      "license": "CC BY-SA 4.0",
+      "attribution": [
+        "Tofugu",
+        "WaniKani"
+      ],
+      "bytes": 24647,
+      "sha256": "c93ca57465816f735a06337a5e9061e1e93b0af22e18ce569888bdd360f71c30"
+    },
+    {
+      "id": "n-v115",
+      "word": "深刻",
+      "reading": "しんこく",
+      "sourcePage": "https://github.com/tofugu/japanese-vocabulary-pronunciation-audio/blob/9725e0e7d628ab616e8b14e126d3daa33eba8d36/lib/mp3/%E6%B7%B1%E5%88%BB%E3%80%90%E3%81%97%E3%82%93%E3%81%93%E3%81%8F%E3%80%91.mp3",
+      "license": "CC BY-SA 4.0",
+      "attribution": [
+        "Tofugu",
+        "WaniKani"
+      ],
+      "bytes": 25483,
+      "sha256": "e92024d4fd5cd99f4e1bd040578409f1a809704e9698c4616e53e8e8815a135b"
+    },
+    {
+      "id": "n-v117",
+      "word": "乏しい",
+      "reading": "とぼしい",
+      "sourcePage": "https://github.com/tofugu/japanese-vocabulary-pronunciation-audio/blob/9725e0e7d628ab616e8b14e126d3daa33eba8d36/lib/mp3/%E4%B9%8F%E3%81%97%E3%81%84%E3%80%90%E3%81%A8%E3%81%BC%E3%81%97%E3%81%84%E3%80%91.mp3",
+      "license": "CC BY-SA 4.0",
+      "attribution": [
+        "Tofugu",
+        "WaniKani"
+      ],
+      "bytes": 25483,
+      "sha256": "7afd1dd82225592e2642f640f3bb495dd56a9074ea1f7c199e5f4a99562d01b8"
+    },
+    {
+      "id": "n-v118",
+      "word": "著しい",
+      "reading": "いちじるしい",
+      "sourcePage": "https://github.com/tofugu/japanese-vocabulary-pronunciation-audio/blob/9725e0e7d628ab616e8b14e126d3daa33eba8d36/lib/mp3/%E8%91%97%E3%81%97%E3%81%84%E3%80%90%E3%81%84%E3%81%A1%E3%81%98%E3%82%8B%E3%81%97%E3%81%84%E3%80%91.mp3",
+      "license": "CC BY-SA 4.0",
+      "attribution": [
+        "Tofugu",
+        "WaniKani"
+      ],
+      "bytes": 35514,
+      "sha256": "02c2de7466d043c720e94a49c91a85ad81c57024774a1462985e655323630773"
+    },
+    {
+      "id": "n-v119",
+      "word": "激しい",
+      "reading": "はげしい",
+      "sourcePage": "https://github.com/tofugu/japanese-vocabulary-pronunciation-audio/blob/9725e0e7d628ab616e8b14e126d3daa33eba8d36/lib/mp3/%E6%BF%80%E3%81%97%E3%81%84%E3%80%90%E3%81%AF%E3%81%92%E3%81%97%E3%81%84%E3%80%91.mp3",
+      "license": "CC BY-SA 4.0",
+      "attribution": [
+        "Tofugu",
+        "WaniKani"
+      ],
+      "bytes": 26319,
+      "sha256": "352327ee671e91fe1dc57e09d4b345642819e68754341b518943a4771fe0576a"
+    },
+    {
+      "id": "n-v121",
+      "word": "緩やか",
+      "reading": "ゆるやか",
+      "sourcePage": "https://github.com/tofugu/japanese-vocabulary-pronunciation-audio/blob/9725e0e7d628ab616e8b14e126d3daa33eba8d36/lib/mp3/%E7%B7%A9%E3%82%84%E3%81%8B%E3%80%90%E3%82%86%E3%82%8B%E3%82%84%E3%81%8B%E3%80%91.mp3",
+      "license": "CC BY-SA 4.0",
+      "attribution": [
+        "Tofugu",
+        "WaniKani"
+      ],
+      "bytes": 22976,
+      "sha256": "d7e206aedc4f66ba64656536116de3357125fffff343fdd71f2b385489c6e0c4"
+    }
+  ]
+}

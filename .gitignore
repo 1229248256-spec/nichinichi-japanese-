@@ -1,0 +1,15 @@
+node_modules/
+.env
+.env.*
+!.env.example
+.openai/
+.sites-runtime/
+.DS_Store
+Thumbs.db
+*.log
+tests/.reports/
+backups/
+personal-audio/
+*学习备份*.json
+nichinichi-backup*.json
+*.zip
